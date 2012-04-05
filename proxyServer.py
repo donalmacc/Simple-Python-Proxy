@@ -1,8 +1,3 @@
-"""
-Donal Mac Carthy
-09706054
-"""
-
 import socket                   #Necessary for Connections to the browser
 import os                       #For checking files, getting list of files
 import string                   #Splits up the headers, etc
@@ -24,7 +19,7 @@ class proxyServer(Thread):
         self.blacklist = []
         self.cacheList = []
         self.fillcachelist()    #Fills the cached list from last time
-        #Default Proxy details, can be changed in the GUI, login for TCD proxy
+        #Default Proxy details, can be changed in the GUI, login for  proxy
         self.uname = 'UNAME'
         self.pword = 'PASSWORD'
         #The port that my FF is configured to use
@@ -35,14 +30,15 @@ class proxyServer(Thread):
         #Quicker timeouts, used to close socket even if it was closed improperly
 
     def createServer(self, host, port):
-        #Creates an instance of the server, and ties the proxy to the TCD proxy.
+        #Creates an instance of the server, and ties the proxy to the  proxy.
         self.port = port
         self.s.bind((host, port))#Listen on localhost:port specified above/UI
-        self.signProxy()    #Link the TCD/SCSS proxy
+        # self.signProxy()    #Uncomment this line if connection to another proxy is necessary
  
     def signProxy(self):
-        #Creates a URLLIB2 opener and installs it globally, allows to connect via tcdproxy with a valid username and password
-        paddr = "http://"+self.uname+":"+self.pword+"@www-proxy.scss.tcd.ie:8080" #Creates the URL
+        url = "PROXY SERVER TO CONNECT TO GOES HERE"
+        #Creates a URLLIB2 opener and installs it globally, allows to connect via another proxy with a valid username and password
+        paddr = "http://"+self.uname+":"+self.pword+"@"+url #Creates the URL
         proxy = urllib2.ProxyHandler({'http': paddr})#PRoxy type, and URl specified
         #Create and install
         auth = urllib2.HTTPBasicAuthHandler()

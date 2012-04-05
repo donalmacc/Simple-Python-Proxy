@@ -1,8 +1,3 @@
-"""
-Donal Mac Carthy
-09706054
-"""
-
 import wx               #Used for the UI
 import webbrowser       #Used to preview files
 import os
@@ -95,7 +90,7 @@ class MainPanel(wx.Panel):
 
 
 
-    #On clicking the SAVE button, this event is triggered. The TCD proxy username and PW is changed
+    #On clicking the SAVE button, this event is triggered. The proxy username and PW is changed
     def saveProxyDetails(self, event):
         #Get uname and PW
         name = self.editname.GetValue()

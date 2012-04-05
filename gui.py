@@ -1,8 +1,3 @@
-"""
-Donal Mac Carthy
-09706054
-"""
-
 #GUI Client for the Proxy Server.
 import wx           #GUI Framework
 from threading import Thread #For spawning multiple threads(one for the GUI, one for the proxy)
