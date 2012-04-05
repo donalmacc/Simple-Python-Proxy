@@ -1,0 +1,1847 @@
+2012-03-29 23:11:16
+Starting Proxy Server on port 1913
+Listening on port1913
+Stopping Proxy Server.
+Starting Proxy Server on port 1913
+Starting Proxy Server on port 1913
+Starting Proxy Server on port 1913
+Starting Proxy Server on port 1913
+Starting Proxy Server on port 1913
+Starting Proxy Server on port 1913
+Starting Proxy Server on port 1913
+Starting Proxy Server on port 1913
+Starting Proxy Server on port 1913
+Starting Proxy Server on port 1913
+Program Closing
+Saving Log
+2012-03-29 23:13:30
+Starting Proxy Server on port 1913
+Listening on port1913
+Stopping Proxy Server.
+Program Closing
+Saving Log
+2012-03-29 23:14:45
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://coffee-coders.com/
+Caching: http://coffee-coders.com/
+Sent all of http://coffee-coders.com/
+Program Closing
+Saving Log
+2012-03-29 23:16:52
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://coffee-coders.com/
+Caching: http://coffee-coders.com/
+Sent all of http://coffee-coders.com/
+Stopping Proxy Server.
+REQUESTING: http://coffee-coders.com/
+Serving up cached request of: http://coffee-coders.com/
+Sent all of http://coffee-coders.com/
+Clearing Cache List
+Program Closing
+Saving Log
+2012-03-29 23:20:28
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://coffee-coders.com/
+Caching: http://coffee-coders.com/
+Sent all of http://coffee-coders.com/
+Program Closing
+Saving Log
+2012-03-29 23:22:52
+Clearing Log
+Program Closing
+Saving Log
+2012-03-29 23:26:14
+Clearing Proxy Details
+Program Closing
+Saving Log
+2012-03-29 23:26:19
+Program Closing
+Saving Log
+2012-03-29 23:26:52
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://coffee-coders.com/
+Caching: http://coffee-coders.com/
+Sent all of http://coffee-coders.com/
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Saving Log
+2012-03-29 23:28:03
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://coffee-coders.com/
+Caching: http://coffee-coders.com/
+Sent all of http://coffee-coders.com/
+Clearing Cache List
+Program Closing
+Saving Log
+2012-03-29 23:29:07
+Program Closing
+Saving Log
+2012-03-29 23:29:34
+Program Closing
+Saving Log
+2012-03-29 23:31:02
+Starting Proxy Server on port 1913
+Listening on port1913
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-03-29 23:31:19
+Starting Proxy Server on port 1913
+Listening on port1913
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-03-29 23:32:01
+Starting Proxy Server on port 1913
+Listening on port1913
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-03-29 23:32:10
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-03-29 23:33:22
+No site selected to remove from Blacklist
+Program Closing
+Saving Log
+2012-03-29 23:34:56
+Clearing Log
+Closing Proxy Server
+Stopping Proxy Server.
+REQUESTING: http://www.google.com/search?q=%5D&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a
+Unable to fulfil request. Error code403
+Sent all of http://www.google.com/search?q=%5D&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a
+Program Closing
+Saving Log
+2012-03-29 23:41:41
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://coffee-coders.com/
+Caching: http://coffee-coders.com/
+Sent all of http://coffee-coders.com/
+REQUESTING: http://coffee-coders.com/favicon.ico
+Caching: http://coffee-coders.com/favicon.ico
+Sent all of http://coffee-coders.com/favicon.ico
+REQUESTING: http://coffee-coders.com/favicon.ico
+Serving up cached request of: http://coffee-coders.com/favicon.ico
+Sent all of http://coffee-coders.com/favicon.ico
+REQUESTING: http://coffee-coders.com/
+Serving up cached request of: http://coffee-coders.com/
+Sent all of http://coffee-coders.com/
+REQUESTING: http://www.google.ie/
+Caching: http://www.google.ie/
+Sent all of http://www.google.ie/
+REQUESTING: http://www.google.ie/images/srpr/logo1w.png
+Caching: http://www.google.ie/images/srpr/logo1w.png
+Sent all of http://www.google.ie/images/srpr/logo1w.png
+REQUESTING: http://www.google.ie/images/srpr/nav_logo80.png
+Caching: http://www.google.ie/images/srpr/nav_logo80.png
+Sent all of http://www.google.ie/images/srpr/nav_logo80.png
+REQUESTING: http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgALCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/R0SG8fDjXgM.js
+Caching: http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgALCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/R0SG8fDjXgM.js
+Sent all of http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgALCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/R0SG8fDjXgM.js
+REQUESTING: http://clients1.google.ie/generate_204
+Caching: http://clients1.google.ie/generate_204
+Sent all of http://clients1.google.ie/generate_204
+REQUESTING: http://www.google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37344,37430,37501,37573,37646,37655,37672,37682,37753&ei=BOV0T-uEMcaGhQfRx8ieDQ&imc=0&imn=0&imp=0&rt=xjsls.5,prt.6,xjses.2012,xjsee.2032,xjs.2040,ol.4001,iml.6,wsrt.851,cst.0,dnst.0,rqst.-12,rspt.-542
+Caching: http://www.google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37344,37430,37501,37573,37646,37655,37672,37682,37753&ei=BOV0T-uEMcaGhQfRx8ieDQ&imc=0&imn=0&imp=0&rt=xjsls.5,prt.6,xjses.2012,xjsee.2032,xjs.2040,ol.4001,iml.6,wsrt.851,cst.0,dnst.0,rqst.-12,rspt.-542
+Sent all of http://www.google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37344,37430,37501,37573,37646,37655,37672,37682,37753&ei=BOV0T-uEMcaGhQfRx8ieDQ&imc=0&imn=0&imp=0&rt=xjsls.5,prt.6,xjses.2012,xjsee.2032,xjs.2040,ol.4001,iml.6,wsrt.851,cst.0,dnst.0,rqst.-12,rspt.-542
+REQUESTING: http://www.google.ie/favicon.ico
+Caching: http://www.google.ie/favicon.ico
+Sent all of http://www.google.ie/favicon.ico
+REQUESTING: http://www.google.ie/favicon.ico
+Serving up cached request of: http://www.google.ie/favicon.ico
+Sent all of http://www.google.ie/favicon.ico
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Saving Log
+2012-03-29 23:44:53
+Program Closing
+Saving Log
+2012-03-29 23:51:59
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://coffee-coders.com/
+Caching: http://coffee-coders.com/
+Sent all of http://coffee-coders.com/
+REQUESTING: http://coffee-coders.com/favicon.ico
+REQUESTING: http://coffee-coders.com/favicon.ico
+Caching: http://coffee-coders.com/favicon.ico
+Sent all of http://coffee-coders.com/favicon.ico
+Caching: http://coffee-coders.com/favicon.ico
+Sent all of http://coffee-coders.com/favicon.ico
+Viewing cached copy of http://coffee-coders.com/favicon.ico
+Closing Proxy Server
+Stopping Proxy Server.
+REQUESTING: http://coffee-coders.com/favicon.ico
+Serving up cached request of: http://coffee-coders.com/favicon.ico
+Sent all of http://coffee-coders.com/favicon.ico
+Program Closing
+Saving Log
+2012-03-29 23:54:22
+Starting Proxy Server on port 1913
+Listening on port1913
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-03-30 00:03:37
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://www.coffee-coders.com/
+Caching: http://www.coffee-coders.com/
+Sent all of http://www.coffee-coders.com/
+REQUESTING: http://www.coffee-coders.com/favicon.ico
+Caching: http://www.coffee-coders.com/favicon.ico
+Sent all of http://www.coffee-coders.com/favicon.ico
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-03-30 00:05:54
+Starting Proxy Server on port 1913
+Listening on port1913
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Saving Log
+2012-03-30 00:09:34
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://www.coffee-coders.com/
+Caching: http://www.coffee-coders.com/
+Sent all of http://www.coffee-coders.com/
+REQUESTING: http://www.google.ie/
+Caching: http://www.google.ie/
+Sent all of http://www.google.ie/
+Closing Proxy Server
+Stopping Proxy Server.
+Starting Proxy Server on port 1913
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-03-30 00:13:12
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://coffee-coders.com/
+Caching: http://coffee-coders.com/
+Sent all of http://coffee-coders.com/
+REQUESTING: http://coffee-coders.com/favicon.ico
+Caching: http://coffee-coders.com/favicon.ico
+Sent all of http://coffee-coders.com/favicon.ico
+Clearing Cache List
+Removing Cached data forhttp://coffee-coders.com/
+Removing Cached data forhttp://coffee-coders.com/favicon.ico
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Saving Log
+2012-03-30 00:14:43
+Program Closing
+Saving Log
+2012-03-30 00:19:34
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://www.coffee-coders.com/
+Caching: http://www.coffee-coders.com/
+Sent all of http://www.coffee-coders.com/
+REQUESTING: http://www.coffee-coders.com/favicon.ico
+Caching: http://www.coffee-coders.com/favicon.ico
+Sent all of http://www.coffee-coders.com/favicon.ico
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Saving Log
+2012-03-30 00:19:46
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://google.ie/
+Caching: http://google.ie/
+Sent all of http://google.ie/
+REQUESTING: http://google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgALCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/R0SG8fDjXgM.js
+Caching: http://google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgALCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/R0SG8fDjXgM.js
+Sent all of http://google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgALCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/R0SG8fDjXgM.js
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Saving Log
+2012-03-30 00:20:01
+Clearing Cache List
+Program Closing
+Saving Log
+2012-03-30 00:21:41
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://google.ie/
+Serving up cached request of: http://google.ie/
+Sent all of http://google.ie/
+REQUESTING: http://google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgALCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/R0SG8fDjXgM.js
+Serving up cached request of: http://google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgALCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/R0SG8fDjXgM.js
+Sent all of http://google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgALCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/R0SG8fDjXgM.js
+REQUESTING: http://clients1.google.ie/generate_204
+REQUESTING: http://google.ie/images/srpr/logo1w.png
+REQUESTING: http://google.ie/images/srpr/nav_logo80.png
+Caching: http://google.ie/images/srpr/nav_logo80.png
+Sent all of http://google.ie/images/srpr/nav_logo80.png
+Caching: http://google.ie/images/srpr/logo1w.png
+Sent all of http://google.ie/images/srpr/logo1w.png
+REQUESTING: http://google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37431,37501,37573,37645,37655,37672,37682,37753&ei=Du50T_PyDsK3hQfmn-GVDQ&imc=0&imn=0&imp=0&rt=xjsls.6,prt.6,xjses.44,xjsee.71,xjs.72,ol.1267,iml.6,wsrt.90426,cst.0,dnst.0,rqst.-12,rspt.-14
+Caching: http://google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37431,37501,37573,37645,37655,37672,37682,37753&ei=Du50T_PyDsK3hQfmn-GVDQ&imc=0&imn=0&imp=0&rt=xjsls.6,prt.6,xjses.44,xjsee.71,xjs.72,ol.1267,iml.6,wsrt.90426,cst.0,dnst.0,rqst.-12,rspt.-14
+Sent all of http://google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37431,37501,37573,37645,37655,37672,37682,37753&ei=Du50T_PyDsK3hQfmn-GVDQ&imc=0&imn=0&imp=0&rt=xjsls.6,prt.6,xjses.44,xjsee.71,xjs.72,ol.1267,iml.6,wsrt.90426,cst.0,dnst.0,rqst.-12,rspt.-14
+REQUESTING: http://google.ie/
+Serving up cached request of: http://google.ie/
+Sent all of http://google.ie/
+REQUESTING: http://google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgALCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/R0SG8fDjXgM.js
+Serving up cached request of: http://google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgALCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/R0SG8fDjXgM.js
+Sent all of http://google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgALCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/R0SG8fDjXgM.js
+REQUESTING: http://clients1.google.ie/generate_204
+REQUESTING: http://google.ie/images/srpr/logo1w.png
+Serving up cached request of: http://google.ie/images/srpr/logo1w.png
+REQUESTING: http://google.ie/images/srpr/nav_logo80.png
+Serving up cached request of: http://google.ie/images/srpr/nav_logo80.png
+Sent all of http://google.ie/images/srpr/logo1w.png
+Sent all of http://google.ie/images/srpr/nav_logo80.png
+Caching: http://clients1.google.ie/generate_204
+Sent all of http://clients1.google.ie/generate_204
+REQUESTING: http://google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37431,37501,37573,37645,37655,37672,37682,37753&ei=Du50T_PyDsK3hQfmn-GVDQ&imc=0&imn=0&imp=0&rt=xjsls.5,prt.5,xjses.36,xjsee.59,xjs.60,ol.576,iml.5,wsrt.22,cst.0,dnst.0,rqst.-13,rspt.-14
+Caching: http://google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37431,37501,37573,37645,37655,37672,37682,37753&ei=Du50T_PyDsK3hQfmn-GVDQ&imc=0&imn=0&imp=0&rt=xjsls.5,prt.5,xjses.36,xjsee.59,xjs.60,ol.576,iml.5,wsrt.22,cst.0,dnst.0,rqst.-13,rspt.-14
+Sent all of http://google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37431,37501,37573,37645,37655,37672,37682,37753&ei=Du50T_PyDsK3hQfmn-GVDQ&imc=0&imn=0&imp=0&rt=xjsls.5,prt.5,xjses.36,xjsee.59,xjs.60,ol.576,iml.5,wsrt.22,cst.0,dnst.0,rqst.-13,rspt.-14
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Saving Log
+2012-03-30 00:21:53
+Clearing Cache List
+Program Closing
+Saving Log
+2012-03-30 00:22:30
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://google.ie/
+Caching: http://google.ie/
+Sent all of http://google.ie/
+REQUESTING: http://google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgALCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/R0SG8fDjXgM.js
+REQUESTING: http://google.ie/images/srpr/logo1w.png
+REQUESTING: http://google.ie/images/srpr/nav_logo80.png
+Caching: http://google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgALCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/R0SG8fDjXgM.js
+Sent all of http://google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgALCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/R0SG8fDjXgM.js
+REQUESTING: http://clients1.google.ie/generate_204
+Caching: http://google.ie/images/srpr/logo1w.png
+Sent all of http://google.ie/images/srpr/logo1w.png
+Caching: http://google.ie/images/srpr/nav_logo80.png
+Sent all of http://google.ie/images/srpr/nav_logo80.png
+Caching: http://clients1.google.ie/generate_204
+Sent all of http://clients1.google.ie/generate_204
+REQUESTING: http://google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37110,37359,37430,37501,37573,37646,37655,37672,37682,37753&ei=rO50T4uRKMrIhAeC1tSYDQ&imc=0&imn=0&imp=0&rt=xjsls.7,prt.7,xjses.606,xjsee.624,xjs.632,ol.1144,iml.7,wsrt.1055,cst.0,dnst.0,rqst.-13,rspt.-1045
+Caching: http://google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37110,37359,37430,37501,37573,37646,37655,37672,37682,37753&ei=rO50T4uRKMrIhAeC1tSYDQ&imc=0&imn=0&imp=0&rt=xjsls.7,prt.7,xjses.606,xjsee.624,xjs.632,ol.1144,iml.7,wsrt.1055,cst.0,dnst.0,rqst.-13,rspt.-1045
+Sent all of http://google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37110,37359,37430,37501,37573,37646,37655,37672,37682,37753&ei=rO50T4uRKMrIhAeC1tSYDQ&imc=0&imn=0&imp=0&rt=xjsls.7,prt.7,xjses.606,xjsee.624,xjs.632,ol.1144,iml.7,wsrt.1055,cst.0,dnst.0,rqst.-13,rspt.-1045
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Saving Log
+2012-04-03 14:25:13
+Proxy Username and password saved
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://www.google.ie/
+Caching: http://www.google.ie/
+Sent all of http://www.google.ie/
+REQUESTING: http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+REQUESTING: http://www.google.ie/images/srpr/logo1w.png
+REQUESTING: http://www.google.ie/images/srpr/nav_logo80.png
+Caching: http://www.google.ie/images/srpr/logo1w.png
+Sent all of http://www.google.ie/images/srpr/logo1w.png
+Caching: http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+Sent all of http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+Caching: http://www.google.ie/images/srpr/nav_logo80.png
+Sent all of http://www.google.ie/images/srpr/nav_logo80.png
+REQUESTING: http://clients1.google.ie/generate_204
+Serving up cached request of: http://clients1.google.ie/generate_204
+Sent all of http://clients1.google.ie/generate_204
+REQUESTING: http://www.google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37501,37573,37646,37676,37682,37953,38108&ei=Ivp6T6S5KcPJhAeGl8jSAg&imc=0&imn=0&imp=0&rt=xjsls.9,prt.10,xjses.991,xjsee.1010,xjs.1019,ol.1033,iml.10,wsrt.879,cst.0,dnst.0,rqst.-48,rspt.-782
+REQUESTING: http://www.google.ie/favicon.ico
+Caching: http://www.google.ie/favicon.ico
+Caching: http://www.google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37501,37573,37646,37676,37682,37953,38108&ei=Ivp6T6S5KcPJhAeGl8jSAg&imc=0&imn=0&imp=0&rt=xjsls.9,prt.10,xjses.991,xjsee.1010,xjs.1019,ol.1033,iml.10,wsrt.879,cst.0,dnst.0,rqst.-48,rspt.-782
+Sent all of http://www.google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37501,37573,37646,37676,37682,37953,38108&ei=Ivp6T6S5KcPJhAeGl8jSAg&imc=0&imn=0&imp=0&rt=xjsls.9,prt.10,xjses.991,xjsee.1010,xjs.1019,ol.1033,iml.10,wsrt.879,cst.0,dnst.0,rqst.-48,rspt.-782
+Sent all of http://www.google.ie/favicon.ico
+Clearing Cache List
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-03 14:31:54
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://www.g2play.net/store/
+REQUESTING: http://google.ie/
+Caching: http://www.g2play.net/store/
+Sent all of http://www.g2play.net/store/
+REQUESTING: http://www.g2play.net/store/skin1/common.js
+REQUESTING: http://www.g2play.net/store/skin1/browser_identificator.js
+REQUESTING: http://www.g2play.net/store/skin1/jquery-min.js
+REQUESTING: http://www.g2play.net/store/skin1/jquery-fix.js
+REQUESTING: http://www.g2play.net/store/skin1/customer/fixes.js
+REQUESTING: http://www.g2play.net/store/skin1/main.css
+REQUESTING: http://www.g2play.net/store/skin1/ajax_cart.js
+Caching: http://google.ie/
+Sent all of http://google.ie/
+REQUESTING: http://www.g2play.net/store/skin1/modules/XAffiliate/main.css
+Caching: http://www.g2play.net/store/skin1/jquery-fix.js
+Sent all of http://www.g2play.net/store/skin1/jquery-fix.js
+Caching: http://www.g2play.net/store/skin1/browser_identificator.js
+REQUESTING: http://google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+Sent all of http://www.g2play.net/store/skin1/browser_identificator.js
+Caching: http://www.g2play.net/store/skin1/customer/fixes.js
+REQUESTING: http://www.g2play.net/store/skin1/anchor_fix.js
+Sent all of http://www.g2play.net/store/skin1/customer/fixes.js
+Caching: http://www.g2play.net/store/skin1/modules/XAffiliate/main.css
+REQUESTING: http://www.g2play.net/store/skin1/modules/Smart_Menu/presets/Simple_Grey/main.css
+Sent all of http://www.g2play.net/store/skin1/modules/XAffiliate/main.css
+REQUESTING: http://www.g2play.net/store/skin1/
+Serving up cached request of: http://www.g2play.net/store/skin1/
+Caching: http://www.g2play.net/store/skin1/ajax_cart.js
+Sent all of http://www.g2play.net/store/skin1/ajax_cart.js
+REQUESTING: http://www.g2play.net/store/skin1/modules/xcms/xcms.css
+REQUESTING: http://www.g2play.net/store/skin1/modules/Search_Suggestions/style.css
+Caching: http://www.g2play.net/store/skin1/common.js
+Sent all of http://www.g2play.net/store/skin1/common.js
+REQUESTING: http://www.g2play.net/store/skin1/modules/Search_Suggestions/script.js
+Caching: http://www.g2play.net/store/skin1/jquery-min.js
+Sent all of http://www.g2play.net/store/skin1/jquery-min.js
+REQUESTING: http://www.g2play.net/store/skin1/modules/Live_Chat/script.js
+Caching: http://www.g2play.net/store/skin1/main.css
+Sent all of http://www.g2play.net/store/skin1/main.css
+REQUESTING: http://www.g2play.net/store/skin1/modules/Live_Chat/style.css
+Caching: http://www.g2play.net/store/skin1/anchor_fix.js
+Caching: http://www.g2play.net/store/skin1/modules/Search_Suggestions/style.css
+Sent all of http://www.g2play.net/store/skin1/anchor_fix.js
+Sent all of http://www.g2play.net/store/skin1/modules/Search_Suggestions/style.css
+REQUESTING: http://www.g2play.net/store/skin1/modules/Social_Shopping/common.js
+Caching: http://www.g2play.net/store/skin1/modules/xcms/xcms.css
+REQUESTING: http://www.g2play.net/store/skin1/modules/Social_Shopping/main.css
+Sent all of http://www.g2play.net/store/skin1/modules/xcms/xcms.css
+REQUESTING: http://www.g2play.net/store/skin1/baners_css.css
+Caching: http://www.g2play.net/store/skin1/modules/Smart_Menu/presets/Simple_Grey/main.css
+Sent all of http://www.g2play.net/store/skin1/modules/Smart_Menu/presets/Simple_Grey/main.css
+REQUESTING: http://www.g2play.net/store/skin1/baners_js.js
+Caching: http://www.g2play.net/store/skin1/modules/Live_Chat/script.js
+Sent all of http://www.g2play.net/store/skin1/modules/Live_Chat/script.js
+REQUESTING: http://www.g2play.net/store/skin1/customer/check_quantity.js
+Caching: http://www.g2play.net/store/skin1/modules/Live_Chat/style.css
+Sent all of http://www.g2play.net/store/skin1/modules/Live_Chat/style.css
+REQUESTING: http://www.g2play.net/store/skin1/favicon.ico
+Caching: http://www.g2play.net/store/skin1/modules/Search_Suggestions/script.js
+Sent all of http://www.g2play.net/store/skin1/modules/Search_Suggestions/script.js
+REQUESTING: http://www.g2play.net/store/skin1/favicon.ico
+Caching: http://google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+Sent all of http://google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+REQUESTING: http://google.ie/images/srpr/logo1w.png
+Caching: http://www.g2play.net/store/skin1/baners_css.css
+Sent all of http://www.g2play.net/store/skin1/baners_css.css
+REQUESTING: http://google.ie/images/srpr/nav_logo80.png
+Caching: http://www.g2play.net/store/skin1/customer/check_quantity.js
+Caching: http://www.g2play.net/store/skin1/favicon.ico
+Caching: http://www.g2play.net/store/skin1/favicon.ico
+Sent all of http://www.g2play.net/store/skin1/favicon.ico
+Sent all of http://www.g2play.net/store/skin1/customer/check_quantity.js
+Caching: http://www.g2play.net/store/skin1/baners_js.js
+Sent all of http://www.g2play.net/store/skin1/favicon.ico
+REQUESTING: http://www.g2play.net/store/skin1/main.FF.css
+Sent all of http://www.g2play.net/store/skin1/baners_js.js
+Caching: http://www.g2play.net/store/skin1/modules/Social_Shopping/main.css
+Sent all of http://www.g2play.net/store/skin1/modules/Social_Shopping/main.css
+Caching: http://www.g2play.net/store/skin1/modules/Social_Shopping/common.js
+Sent all of http://www.g2play.net/store/skin1/modules/Social_Shopping/common.js
+REQUESTING: http://clients1.google.ie/generate_204
+REQUESTING: http://www.g2play.net/store/images/baners/bf3-10%20(2)_4f7991b32f4a7.jpg
+REQUESTING: http://www.g2play.net/store/images/baners/baner-small_4f79a2ec090ca.jpg
+REQUESTING: http://www.g2play.net/store/images/baners/g2play-3reasons-v02.jpg
+REQUESTING: http://www.g2play.net/store/images/T/swor7.gif
+Caching: http://clients1.google.ie/generate_204
+Sent all of http://clients1.google.ie/generate_204
+Caching: http://www.g2play.net/store/skin1/main.FF.css
+REQUESTING: http://www.g2play.net/store/images/T/sw60.gif
+Sent all of http://www.g2play.net/store/skin1/main.FF.css
+REQUESTING: http://www.g2play.net/store/images/T/shogun-2-samurai-norm.gif
+Caching: http://google.ie/images/srpr/logo1w.png
+Sent all of http://google.ie/images/srpr/logo1w.png
+REQUESTING: http://www.g2play.net/store/images/T/Diablo3Pre.jpg
+Caching: http://www.g2play.net/store/images/baners/baner-small_4f79a2ec090ca.jpg
+Sent all of http://www.g2play.net/store/images/baners/baner-small_4f79a2ec090ca.jpg
+REQUESTING: http://www.g2play.net/store/skin1/
+Serving up cached request of: http://www.g2play.net/store/skin1/
+Caching: http://www.g2play.net/store/images/T/swor7.gif
+Sent all of http://www.g2play.net/store/images/T/swor7.gif
+REQUESTING: http://www.g2play.net/store/images/T/MASS%20EFFECT%203_NORMAL.gif
+REQUESTING: http://www.g2play.net/store/images/T/SyndicateNormal.gif
+Caching: http://www.g2play.net/store/images/baners/g2play-3reasons-v02.jpg
+Sent all of http://www.g2play.net/store/images/baners/g2play-3reasons-v02.jpg
+Caching: http://www.g2play.net/store/images/baners/bf3-10%20(2)_4f7991b32f4a7.jpg
+Sent all of http://www.g2play.net/store/images/baners/bf3-10%20(2)_4f7991b32f4a7.jpg
+REQUESTING: http://gis5.livechatinc.com/gis.cgi?serverType=control&licenseID=1056912&jsonp=__lc_load
+REQUESTING: http://www.google-analytics.com/ga.js
+Caching: http://www.google-analytics.com/ga.js
+Sent all of http://www.google-analytics.com/ga.js
+REQUESTING: http://connect.facebook.net/en_US/all.js
+Caching: http://google.ie/images/srpr/nav_logo80.png
+Sent all of http://google.ie/images/srpr/nav_logo80.png
+REQUESTING: http://www.g2play.net/store/skin1/modules/Social_Shopping/common.js
+Serving up cached request of: http://www.g2play.net/store/skin1/modules/Social_Shopping/common.js
+Sent all of http://www.g2play.net/store/skin1/modules/Social_Shopping/common.js
+Caching: http://www.g2play.net/store/images/T/sw60.gif
+REQUESTING: http://www.g2play.net/store/skin1/swz721bc-webfont.woff
+Sent all of http://www.g2play.net/store/images/T/sw60.gif
+REQUESTING: http://www.g2play.net/store/images/T/ACR_RE.jpg
+Caching: http://www.g2play.net/store/images/T/shogun-2-samurai-norm.gif
+Sent all of http://www.g2play.net/store/images/T/shogun-2-samurai-norm.gif
+REQUESTING: http://www.g2play.net/store/images/T/Anno%202070.gif
+Caching: http://www.g2play.net/store/images/T/Diablo3Pre.jpg
+Sent all of http://www.g2play.net/store/images/T/Diablo3Pre.jpg
+REQUESTING: http://www.g2play.net/store/images/T/t-16794.gif
+REQUESTING: http://google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37342,37501,37573,37646,37675,37682,37952,38000,38108&ei=h_t6T_SVIYrLhAfUo4COCg&imc=0&imn=0&imp=0&rt=xjsls.6,prt.7,xjses.1338,xjsee.1356,xjs.1362,ol.3094,iml.7,wsrt.10096,cst.0,dnst.0,rqst.-13,rspt.-1152
+Caching: http://www.g2play.net/store/images/T/MASS%20EFFECT%203_NORMAL.gif
+Sent all of http://www.g2play.net/store/images/T/MASS%20EFFECT%203_NORMAL.gif
+REQUESTING: http://google.ie/favicon.ico
+Caching: http://www.g2play.net/store/images/T/SyndicateNormal.gif
+Sent all of http://www.g2play.net/store/images/T/SyndicateNormal.gif
+REQUESTING: http://www.g2play.net/store/images/T/SR3-normal.jpg
+Caching: http://connect.facebook.net/en_US/all.js
+Caching: http://gis5.livechatinc.com/gis.cgi?serverType=control&licenseID=1056912&jsonp=__lc_load
+Sent all of http://gis5.livechatinc.com/gis.cgi?serverType=control&licenseID=1056912&jsonp=__lc_load
+Sent all of http://connect.facebook.net/en_US/all.js
+REQUESTING: http://www.g2play.net/store/images/T/NFS_TR_normal.jpg
+REQUESTING: http://www.g2play.net/store/images/T/COD%20MW3%20Product_r-01.gif
+Caching: http://www.g2play.net/store/skin1/swz721bc-webfont.woff
+Sent all of http://www.g2play.net/store/skin1/swz721bc-webfont.woff
+Caching: http://www.g2play.net/store/images/T/ACR_RE.jpg
+Sent all of http://www.g2play.net/store/images/T/ACR_RE.jpg
+REQUESTING: http://chat1g.livechatinc.com/licence/1056912/script.cgi?lang=en&groups=3
+Caching: http://www.g2play.net/store/images/T/Anno%202070.gif
+Sent all of http://www.g2play.net/store/images/T/Anno%202070.gif
+REQUESTING: http://www.g2play.net/store/skin1/swz721bc-webfont.woff
+Serving up cached request of: http://www.g2play.net/store/skin1/swz721bc-webfont.woff
+Sent all of http://www.g2play.net/store/skin1/swz721bc-webfont.woff
+Caching: http://www.g2play.net/store/images/T/t-16794.gif
+Sent all of http://www.g2play.net/store/images/T/t-16794.gif
+REQUESTING: http://www.facebook.com/dialog/oauth?api_key=181480188614481&app_id=181480188614481&channel_url=https%3A%2F%2Fs-static.ak.fbcdn.net%2Fconnect%2Fxd_proxy.php%23cb%3Df20ce94aaf57b56%26origin%3Dhttp%253A%252F%252Fwww.g2play.net%252Ff10d48935d7d10a%26relation%3Dparent.parent%26transport%3Dpostmessage&client_id=181480188614481&display=none&domain=www.g2play.net&locale=en_US&origin=1&redirect_uri=https%3A%2F%2Fs-static.ak.fbcdn.net%2Fconnect%2Fxd_proxy.php%23cb%3Df195e288314cd7c%26origin%3Dhttp%253A%252F%252Fwww.g2play.net%252Ff10d48935d7d10a%26relation%3Dparent%26transport%3Dpostmessage%26frame%3Df1996edc2deac5c&response_type=token%2Csigned_request%2Ccode&sdk=joey
+REQUESTING: http://www.g2play.net/store/adaptive.php?send_browser=YYY|Firefox|9.0.1|MacIntel|Y|1440|900|C
+Caching: http://www.g2play.net/store/images/T/SR3-normal.jpg
+Sent all of http://www.g2play.net/store/images/T/SR3-normal.jpg
+REQUESTING: http://www.g2play.net/store/images/T/DarknessNORMAL.gif
+Caching: http://www.g2play.net/store/images/T/COD%20MW3%20Product_r-01.gif
+Sent all of http://www.g2play.net/store/images/T/COD%20MW3%20Product_r-01.gif
+REQUESTING: http://www.g2play.net/store/images/T/SeriousSam_Normal.jpg
+Caching: http://www.g2play.net/store/images/T/NFS_TR_normal.jpg
+Sent all of http://www.g2play.net/store/images/T/NFS_TR_normal.jpg
+REQUESTING: http://www.g2play.net/store/images/T/bf3-2.gif
+Caching: http://google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37342,37501,37573,37646,37675,37682,37952,38000,38108&ei=h_t6T_SVIYrLhAfUo4COCg&imc=0&imn=0&imp=0&rt=xjsls.6,prt.7,xjses.1338,xjsee.1356,xjs.1362,ol.3094,iml.7,wsrt.10096,cst.0,dnst.0,rqst.-13,rspt.-1152
+Sent all of http://google.ie/csi?v=3&s=webhp&action=&e=36683,36888,36934,37342,37501,37573,37646,37675,37682,37952,38000,38108&ei=h_t6T_SVIYrLhAfUo4COCg&imc=0&imn=0&imp=0&rt=xjsls.6,prt.7,xjses.1338,xjsee.1356,xjs.1362,ol.3094,iml.7,wsrt.10096,cst.0,dnst.0,rqst.-13,rspt.-1152
+REQUESTING: http://www.g2play.net/store/images/T/t-16276.gif
+Caching: http://google.ie/favicon.ico
+Sent all of http://google.ie/favicon.ico
+REQUESTING: http://www.g2play.net/store/images/T/1_0818dbe703cb.jpg
+Caching: http://www.g2play.net/store/adaptive.php?send_browser=YYY|Firefox|9.0.1|MacIntel|Y|1440|900|C
+Sent all of http://www.g2play.net/store/adaptive.php?send_browser=YYY|Firefox|9.0.1|MacIntel|Y|1440|900|C
+REQUESTING: http://www.g2play.net/store/images/T/1_749cf77e10c5.jpg
+Caching: http://www.g2play.net/store/images/T/DarknessNORMAL.gif
+Sent all of http://www.g2play.net/store/images/T/DarknessNORMAL.gif
+REQUESTING: http://www.g2play.net/store/images/T/TERA%20EU.gif
+REQUESTING: http://www.g2play.net/store/images/T/TERA%20CE%20EU.gif
+Caching: http://www.g2play.net/store/images/T/SeriousSam_Normal.jpg
+Sent all of http://www.g2play.net/store/images/T/SeriousSam_Normal.jpg
+REQUESTING: http://www.g2play.net/store/images/T/Kingdoms%20of%20Amalur%20NORMAL.gif
+Caching: http://www.g2play.net/store/images/T/bf3-2.gif
+Sent all of http://www.g2play.net/store/images/T/bf3-2.gif
+REQUESTING: http://www.g2play.net/store/images/T/Jagged.gif
+Caching: http://www.g2play.net/store/images/T/t-16276.gif
+Sent all of http://www.g2play.net/store/images/T/t-16276.gif
+REQUESTING: http://www.g2play.net/store/skin1/modules/xcms/images/default_image_entries.gif
+Caching: http://www.g2play.net/store/images/T/1_0818dbe703cb.jpg
+Sent all of http://www.g2play.net/store/images/T/1_0818dbe703cb.jpg
+REQUESTING: http://www.g2play.net/store/image.php?type=E&id=357
+Caching: http://www.g2play.net/store/images/T/1_749cf77e10c5.jpg
+Sent all of http://www.g2play.net/store/images/T/1_749cf77e10c5.jpg
+REQUESTING: http://www.g2play.net/store/skin1/images/spacer.gif
+Caching: http://chat1g.livechatinc.com/licence/1056912/script.cgi?lang=en&groups=3
+Sent all of http://chat1g.livechatinc.com/licence/1056912/script.cgi?lang=en&groups=3
+REQUESTING: http://www.g2play.net/store/skin1/images/Bestsellers/yellow_up.gif
+Caching: http://www.g2play.net/store/images/T/TERA%20EU.gif
+Sent all of http://www.g2play.net/store/images/T/TERA%20EU.gif
+REQUESTING: http://www.g2play.net/store/skin1/images/Bestsellers/blue_down.gif
+Caching: http://www.g2play.net/store/images/T/TERA%20CE%20EU.gif
+Sent all of http://www.g2play.net/store/images/T/TERA%20CE%20EU.gif
+REQUESTING: http://www.g2play.net/store/images/T/RUni2yxyj4.jpg
+Caching: http://www.g2play.net/store/images/T/Kingdoms%20of%20Amalur%20NORMAL.gif
+Sent all of http://www.g2play.net/store/images/T/Kingdoms%20of%20Amalur%20NORMAL.gif
+REQUESTING: http://www.g2play.net/store/skin1/images/Bestsellers/blue_up.gif
+Caching: http://www.g2play.net/store/images/T/Jagged.gif
+Sent all of http://www.g2play.net/store/images/T/Jagged.gif
+REQUESTING: http://www.g2play.net/store/images/T/BF3_EU_STD_Normal.jpg
+Caching: http://www.g2play.net/store/skin1/modules/xcms/images/default_image_entries.gif
+Sent all of http://www.g2play.net/store/skin1/modules/xcms/images/default_image_entries.gif
+REQUESTING: http://www.g2play.net/store/skin1/modules/FB_Invite/invite-reward-homepage.jpg
+Caching: http://www.g2play.net/store/image.php?type=E&id=357
+Sent all of http://www.g2play.net/store/image.php?type=E&id=357
+Caching: http://www.g2play.net/store/skin1/images/spacer.gif
+REQUESTING: http://www.g2play.net/store/skin1/modules/Social_Shopping/user.png
+Sent all of http://www.g2play.net/store/skin1/images/spacer.gif
+REQUESTING: http://www.g2play.net/store/skin1/modules/Social_Shopping/flags/nl.gif
+Caching: http://www.g2play.net/store/skin1/images/Bestsellers/yellow_up.gif
+Sent all of http://www.g2play.net/store/skin1/images/Bestsellers/yellow_up.gif
+REQUESTING: http://www.g2play.net/store/skin1/modules/Social_Shopping/flags/it.gif
+Caching: http://www.g2play.net/store/skin1/images/Bestsellers/blue_down.gif
+Sent all of http://www.g2play.net/store/skin1/images/Bestsellers/blue_down.gif
+REQUESTING: http://www.g2play.net/store/images/T/Alan%20Wake.gif
+Caching: http://www.g2play.net/store/skin1/images/Bestsellers/blue_up.gif
+Sent all of http://www.g2play.net/store/skin1/images/Bestsellers/blue_up.gif
+REQUESTING: http://www.g2play.net/store/skin1/modules/Social_Shopping/flags/de.gif
+Caching: http://www.g2play.net/store/images/T/RUni2yxyj4.jpg
+Sent all of http://www.g2play.net/store/images/T/RUni2yxyj4.jpg
+Caching: http://www.g2play.net/store/images/T/BF3_EU_STD_Normal.jpg
+REQUESTING: http://www.g2play.net/store/skin1/images/twitter.png
+Sent all of http://www.g2play.net/store/images/T/BF3_EU_STD_Normal.jpg
+REQUESTING: http://www.g2play.net/store/skin1/modules/xcms/images/rss-icon.gif
+Caching: http://www.g2play.net/store/skin1/modules/FB_Invite/invite-reward-homepage.jpg
+Sent all of http://www.g2play.net/store/skin1/modules/FB_Invite/invite-reward-homepage.jpg
+REQUESTING: http://www.g2play.net/store/files/public/images/payment_logos_small/paypal_logo_small1.jpg
+Caching: http://www.g2play.net/store/skin1/modules/Social_Shopping/user.png
+Sent all of http://www.g2play.net/store/skin1/modules/Social_Shopping/user.png
+REQUESTING: http://gis5.livechatinc.com/gis.cgi?serverType=control&licenseID=1056912&jsonp=__lc_gis
+Caching: http://www.g2play.net/store/skin1/modules/Social_Shopping/flags/nl.gif
+Sent all of http://www.g2play.net/store/skin1/modules/Social_Shopping/flags/nl.gif
+REQUESTING: http://www.g2play.net/store/files/public/images/payment_logos_small/paypal_logo_small.jpg
+Caching: http://www.g2play.net/store/skin1/modules/Social_Shopping/flags/it.gif
+Sent all of http://www.g2play.net/store/skin1/modules/Social_Shopping/flags/it.gif
+REQUESTING: http://www.g2play.net/store/files/public/images/payment_logos_big/credit_card.gif
+Caching: http://www.g2play.net/store/images/T/Alan%20Wake.gif
+Sent all of http://www.g2play.net/store/images/T/Alan%20Wake.gif
+REQUESTING: http://www.g2play.net/store/files/public/images/payment_logos_small/bank_transfer_small.jpg
+Caching: http://www.g2play.net/store/skin1/modules/Social_Shopping/flags/de.gif
+Caching: http://www.g2play.net/store/skin1/modules/xcms/images/rss-icon.gif
+Sent all of http://www.g2play.net/store/skin1/modules/Social_Shopping/flags/de.gif
+Sent all of http://www.g2play.net/store/skin1/modules/xcms/images/rss-icon.gif
+REQUESTING: http://www.g2play.net/store/files/public/images/payment_logos_small/g2play-logo-rp.gif
+REQUESTING: http://www.g2play.net/store/files/public/images/payment_logos_small/g2play-logo-gift.gif
+Caching: http://www.g2play.net/store/skin1/images/twitter.png
+Sent all of http://www.g2play.net/store/skin1/images/twitter.png
+REQUESTING: http://www.g2play.net/store/files/public/images/payment_logos_small/laser_logo_small.jpg
+Caching: http://www.g2play.net/store/files/public/images/payment_logos_small/paypal_logo_small1.jpg
+Sent all of http://www.g2play.net/store/files/public/images/payment_logos_small/paypal_logo_small1.jpg
+REQUESTING: http://www.g2play.net/store/files/public/images/payment_logos_big/jcb_logo.jpg
+Caching: http://www.g2play.net/store/files/public/images/payment_logos_small/paypal_logo_small.jpg
+Sent all of http://www.g2play.net/store/files/public/images/payment_logos_small/paypal_logo_small.jpg
+REQUESTING: http://www.g2play.net/store/files/public/images/payment_logos_big/americane_logo.gif
+Caching: http://www.g2play.net/store/files/public/images/payment_logos_big/credit_card.gif
+Sent all of http://www.g2play.net/store/files/public/images/payment_logos_big/credit_card.gif
+REQUESTING: http://www.g2play.net/store/files/public/images/payment_logos_small/diners_logo_small.jpg
+Caching: http://www.g2play.net/store/files/public/images/payment_logos_small/bank_transfer_small.jpg
+Sent all of http://www.g2play.net/store/files/public/images/payment_logos_small/bank_transfer_small.jpg
+REQUESTING: http://www.g2play.net/store/files/public/images/payment_logos_small/visae_logo_small.jpg
+Caching: http://gis5.livechatinc.com/gis.cgi?serverType=control&licenseID=1056912&jsonp=__lc_gis
+Sent all of http://gis5.livechatinc.com/gis.cgi?serverType=control&licenseID=1056912&jsonp=__lc_gis
+REQUESTING: http://www.g2play.net/store/files/public/images/payment_logos_small/paysafecard_logo_small.jpg
+Caching: http://www.g2play.net/store/files/public/images/payment_logos_small/laser_logo_small.jpg
+Sent all of http://www.g2play.net/store/files/public/images/payment_logos_small/laser_logo_small.jpg
+REQUESTING: http://gis3.livechatinc.com/gis.cgi?serverType=control&licenseID=1056912&jsonp=__lc_gis
+Caching: http://www.g2play.net/store/files/public/images/payment_logos_big/jcb_logo.jpg
+Sent all of http://www.g2play.net/store/files/public/images/payment_logos_big/jcb_logo.jpg
+REQUESTING: http://www.g2play.net/store/files/public/images/payment_logos_small/moneybookers_logo_small.jpg
+Caching: http://www.g2play.net/store/files/public/images/payment_logos_small/g2play-logo-rp.gif
+Sent all of http://www.g2play.net/store/files/public/images/payment_logos_small/g2play-logo-rp.gif
+REQUESTING: http://www.g2play.net/store/skin1/images/xlogo.gif
+Caching: http://www.g2play.net/store/files/public/images/payment_logos_small/g2play-logo-gift.gif
+Sent all of http://www.g2play.net/store/files/public/images/payment_logos_small/g2play-logo-gift.gif
+REQUESTING: http://www.g2play.net/store/files/public/images/geotrust.gif
+Caching: http://www.g2play.net/store/files/public/images/payment_logos_small/diners_logo_small.jpg
+Caching: http://www.g2play.net/store/files/public/images/payment_logos_big/americane_logo.gif
+Sent all of http://www.g2play.net/store/files/public/images/payment_logos_small/diners_logo_small.jpg
+Sent all of http://www.g2play.net/store/files/public/images/payment_logos_big/americane_logo.gif
+REQUESTING: http://www.g2play.net/store/files/public/images/telesin.gif
+REQUESTING: http://www.g2play.net/store/images/baners/4f7ab9597b925.png
+Caching: http://www.g2play.net/store/files/public/images/payment_logos_small/visae_logo_small.jpg
+Sent all of http://www.g2play.net/store/files/public/images/payment_logos_small/visae_logo_small.jpg
+REQUESTING: http://www.g2play.net/store/skin1/images/maps/map_europa.png
+Caching: http://www.g2play.net/store/files/public/images/payment_logos_small/paysafecard_logo_small.jpg
+Sent all of http://www.g2play.net/store/files/public/images/payment_logos_small/paysafecard_logo_small.jpg
+REQUESTING: http://www.g2play.net/store/images/baners/4f796ebc7f871.png
+Caching: http://www.g2play.net/store/skin1/images/xlogo.gif
+Sent all of http://www.g2play.net/store/skin1/images/xlogo.gif
+REQUESTING: http://www.g2play.net/store/images/baners/4f7977b6064d3.png
+Caching: http://www.g2play.net/store/files/public/images/payment_logos_small/moneybookers_logo_small.jpg
+Sent all of http://www.g2play.net/store/files/public/images/payment_logos_small/moneybookers_logo_small.jpg
+REQUESTING: http://www.g2play.net/store/images/baners/4f796facc5397.png
+Caching: http://www.g2play.net/store/files/public/images/geotrust.gif
+Sent all of http://www.g2play.net/store/files/public/images/geotrust.gif
+REQUESTING: http://www.g2play.net/store/images/baners/4f796c2dc143c.png
+Caching: http://gis3.livechatinc.com/gis.cgi?serverType=control&licenseID=1056912&jsonp=__lc_gis
+Sent all of http://gis3.livechatinc.com/gis.cgi?serverType=control&licenseID=1056912&jsonp=__lc_gis
+REQUESTING: http://www.g2play.net/store/images/baners/4f797236828b0.png
+Caching: http://www.g2play.net/store/files/public/images/telesin.gif
+Sent all of http://www.g2play.net/store/files/public/images/telesin.gif
+REQUESTING: http://www.g2play.net/store/images/baners/4f796d37d2382.png
+Caching: http://www.g2play.net/store/images/baners/4f7ab9597b925.png
+Sent all of http://www.g2play.net/store/images/baners/4f7ab9597b925.png
+REQUESTING: http://chat1c.livechatinc.com/licence/1056912/script_data.js?lang=en&groups=3&t=1333459854204&referrer=&url=http%3A%2F%2Fwww.g2play.net%2Fstore%2F&params=&jsonp=__lc_data
+Caching: http://www.g2play.net/store/skin1/images/maps/map_europa.png
+Sent all of http://www.g2play.net/store/skin1/images/maps/map_europa.png
+REQUESTING: http://www.g2play.net/store/images/baners/4f796e6db47bf.png
+Caching: http://www.g2play.net/store/images/baners/4f796ebc7f871.png
+Sent all of http://www.g2play.net/store/images/baners/4f796ebc7f871.png
+REQUESTING: http://www.g2play.net/store/images/baners/4f796f196489f.png
+Caching: http://www.g2play.net/store/images/baners/4f7977b6064d3.png
+Sent all of http://www.g2play.net/store/images/baners/4f7977b6064d3.png
+REQUESTING: http://www.g2play.net/store/images/baners/4f796ff297bdf.png
+Caching: http://www.g2play.net/store/images/baners/4f796facc5397.png
+Sent all of http://www.g2play.net/store/images/baners/4f796facc5397.png
+Caching: http://www.g2play.net/store/images/baners/4f796c2dc143c.png
+REQUESTING: http://www.g2play.net/store/images/baners/4f7971024e51e.png
+Sent all of http://www.g2play.net/store/images/baners/4f796c2dc143c.png
+REQUESTING: http://www.g2play.net/store/images/baners/4f796de434938.png
+Caching: http://www.g2play.net/store/images/baners/4f796d37d2382.png
+Sent all of http://www.g2play.net/store/images/baners/4f796d37d2382.png
+REQUESTING: http://www.g2play.net/store/images/baners/4f7432d54842c.png
+Caching: http://www.g2play.net/store/images/baners/4f797236828b0.png
+Sent all of http://www.g2play.net/store/images/baners/4f797236828b0.png
+REQUESTING: http://www.g2play.net/store/images/baners/4f2fb9cc563ad.png
+Caching: http://www.g2play.net/store/images/baners/4f796e6db47bf.png
+Sent all of http://www.g2play.net/store/images/baners/4f796e6db47bf.png
+REQUESTING: http://www.g2play.net/store/images/baners/4f742f4e09e42.png
+Caching: http://chat1c.livechatinc.com/licence/1056912/script_data.js?lang=en&groups=3&t=1333459854204&referrer=&url=http%3A%2F%2Fwww.g2play.net%2Fstore%2F&params=&jsonp=__lc_data
+Sent all of http://chat1c.livechatinc.com/licence/1056912/script_data.js?lang=en&groups=3&t=1333459854204&referrer=&url=http%3A%2F%2Fwww.g2play.net%2Fstore%2F&params=&jsonp=__lc_data
+REQUESTING: http://www.g2play.net/store/images/baners/4f795ada632a6.png
+Caching: http://www.g2play.net/store/images/baners/4f796f196489f.png
+Sent all of http://www.g2play.net/store/images/baners/4f796f196489f.png
+REQUESTING: http://www.g2play.net/store/images/baners/4f795b03a4b2d.png
+Caching: http://www.g2play.net/store/images/baners/4f796ff297bdf.png
+Sent all of http://www.g2play.net/store/images/baners/4f796ff297bdf.png
+REQUESTING: http://www.g2play.net/store/images/baners/4f50922a10d5f.png
+Caching: http://www.g2play.net/store/images/baners/4f7971024e51e.png
+Sent all of http://www.g2play.net/store/images/baners/4f7971024e51e.png
+REQUESTING: http://www.g2play.net/store/images/baners/4f743e1c56e90.png
+Caching: http://www.g2play.net/store/images/baners/4f796de434938.png
+Sent all of http://www.g2play.net/store/images/baners/4f796de434938.png
+REQUESTING: http://www.g2play.net/store/skin1/images/dialog_bg.gif
+Caching: http://www.g2play.net/store/images/baners/4f7432d54842c.png
+Sent all of http://www.g2play.net/store/images/baners/4f7432d54842c.png
+REQUESTING: http://www.g2play.net/store/skin1/images/but_main_right.png
+Caching: http://www.g2play.net/store/images/baners/4f2fb9cc563ad.png
+Sent all of http://www.g2play.net/store/images/baners/4f2fb9cc563ad.png
+REQUESTING: http://www.g2play.net/store/skin1/images/but_main_left.png
+Caching: http://www.g2play.net/store/images/baners/4f742f4e09e42.png
+Sent all of http://www.g2play.net/store/images/baners/4f742f4e09e42.png
+REQUESTING: http://www.g2play.net/store/skin1/images/but_arrow.png
+Caching: http://www.g2play.net/store/images/baners/4f795ada632a6.png
+Sent all of http://www.g2play.net/store/images/baners/4f795ada632a6.png
+REQUESTING: http://www.g2play.net/store/skin1/images/menu_bg.gif
+Caching: http://www.g2play.net/store/images/baners/4f795b03a4b2d.png
+Sent all of http://www.g2play.net/store/images/baners/4f795b03a4b2d.png
+REQUESTING: http://www.g2play.net/store/skin1/images/dingbats_categorie.gif
+Caching: http://www.g2play.net/store/images/baners/4f50922a10d5f.png
+Sent all of http://www.g2play.net/store/images/baners/4f50922a10d5f.png
+REQUESTING: http://www.g2play.net/store/skin1/images/category_bullet.gif
+Caching: http://www.g2play.net/store/skin1/images/dialog_bg.gif
+Sent all of http://www.g2play.net/store/skin1/images/dialog_bg.gif
+REQUESTING: http://www.google-analytics.com/__utm.gif?utmwv=5.2.6&utms=1&utmn=480877524&utmhn=www.g2play.net&utmcs=ISO-8859-1&utmsr=1440x900&utmvp=1046x707&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.1%20r102&utmdt=G2PLAY.NET%20-%20BE%20SMART%2C%20PAY%20LESS%20%3B)&utmhid=913932918&utmr=-&utmp=%2Fstore%2F&utmac=UA-3496751-1&utmcc=__utma%3D95889354.831582825.1333459850.1333459850.1333459850.1%3B%2B__utmz%3D95889354.1333459850.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~
+Caching: http://www.google-analytics.com/__utm.gif?utmwv=5.2.6&utms=1&utmn=480877524&utmhn=www.g2play.net&utmcs=ISO-8859-1&utmsr=1440x900&utmvp=1046x707&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.1%20r102&utmdt=G2PLAY.NET%20-%20BE%20SMART%2C%20PAY%20LESS%20%3B)&utmhid=913932918&utmr=-&utmp=%2Fstore%2F&utmac=UA-3496751-1&utmcc=__utma%3D95889354.831582825.1333459850.1333459850.1333459850.1%3B%2B__utmz%3D95889354.1333459850.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~
+Sent all of http://www.google-analytics.com/__utm.gif?utmwv=5.2.6&utms=1&utmn=480877524&utmhn=www.g2play.net&utmcs=ISO-8859-1&utmsr=1440x900&utmvp=1046x707&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.1%20r102&utmdt=G2PLAY.NET%20-%20BE%20SMART%2C%20PAY%20LESS%20%3B)&utmhid=913932918&utmr=-&utmp=%2Fstore%2F&utmac=UA-3496751-1&utmcc=__utma%3D95889354.831582825.1333459850.1333459850.1333459850.1%3B%2B__utmz%3D95889354.1333459850.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~
+REQUESTING: http://google.ie/favicon.ico
+Serving up cached request of: http://google.ie/favicon.ico
+Sent all of http://google.ie/favicon.ico
+REQUESTING: http://www.g2play.net/store/skin1/images/tab_r.png
+Caching: http://www.g2play.net/store/skin1/images/but_main_right.png
+Sent all of http://www.g2play.net/store/skin1/images/but_main_right.png
+REQUESTING: http://www.g2play.net/store/skin1/images/tab_l.png
+Caching: http://www.g2play.net/store/skin1/images/but_main_left.png
+Sent all of http://www.g2play.net/store/skin1/images/but_main_left.png
+REQUESTING: http://www.g2play.net/store/skin1/images/head_linebg.gif
+Caching: http://www.g2play.net/store/images/baners/4f743e1c56e90.png
+Sent all of http://www.g2play.net/store/images/baners/4f743e1c56e90.png
+REQUESTING: http://www.g2play.net/store/skin1/images/dingbats_orders.gif
+Caching: http://www.g2play.net/store/skin1/images/but_arrow.png
+Sent all of http://www.g2play.net/store/skin1/images/but_arrow.png
+REQUESTING: http://www.g2play.net/store/skin1/images/cart_empty.gif
+Caching: http://www.g2play.net/store/skin1/images/menu_bg.gif
+Sent all of http://www.g2play.net/store/skin1/images/menu_bg.gif
+REQUESTING: http://www.g2play.net/store/skin1/images/dingbats_authentification.gif
+Caching: http://www.g2play.net/store/skin1/images/dingbats_categorie.gif
+Sent all of http://www.g2play.net/store/skin1/images/dingbats_categorie.gif
+REQUESTING: http://www.g2play.net/store/skin1/images/but_menu_right.png
+Caching: http://www.g2play.net/store/skin1/images/category_bullet.gif
+Sent all of http://www.g2play.net/store/skin1/images/category_bullet.gif
+REQUESTING: http://www.g2play.net/store/skin1/images/but_menu_left.png
+Caching: http://www.g2play.net/store/skin1/images/tab_r.png
+Sent all of http://www.g2play.net/store/skin1/images/tab_r.png
+REQUESTING: http://www.g2play.net/store/skin1/modules/Live_Chat/icon-beta.png
+Caching: http://www.g2play.net/store/skin1/images/tab_l.png
+Sent all of http://www.g2play.net/store/skin1/images/tab_l.png
+REQUESTING: http://www.g2play.net/store/skin1/modules/Social_Shopping/last_satisfaction_rank_bg.jpg
+Caching: http://www.g2play.net/store/skin1/images/head_linebg.gif
+Sent all of http://www.g2play.net/store/skin1/images/head_linebg.gif
+REQUESTING: http://www.g2play.net/store/skin1/modules/Social_Shopping/smile_yellow.png
+Caching: http://www.g2play.net/store/skin1/images/dingbats_orders.gif
+Sent all of http://www.g2play.net/store/skin1/images/dingbats_orders.gif
+REQUESTING: http://www.g2play.net/store/skin1/modules/Social_Shopping/stars.png
+Caching: http://www.g2play.net/store/skin1/images/cart_empty.gif
+Sent all of http://www.g2play.net/store/skin1/images/cart_empty.gif
+REQUESTING: http://www.g2play.net/store/skin1/modules/Social_Shopping/last_X_info_bg.jpg
+Caching: http://www.g2play.net/store/skin1/images/dingbats_authentification.gif
+Sent all of http://www.g2play.net/store/skin1/images/dingbats_authentification.gif
+REQUESTING: http://www.g2play.net/store/skin1/modules/Social_Shopping/review_bg.jpg
+Caching: http://www.g2play.net/store/skin1/images/but_menu_right.png
+Sent all of http://www.g2play.net/store/skin1/images/but_menu_right.png
+REQUESTING: http://www.g2play.net/store/skin1/modules/xcms/images/arrow-menu-entry.png
+Caching: http://www.g2play.net/store/skin1/images/but_menu_left.png
+Sent all of http://www.g2play.net/store/skin1/images/but_menu_left.png
+REQUESTING: http://www.g2play.net/store/skin1/images/dingbats_news.gif
+Caching: http://www.g2play.net/store/skin1/modules/Live_Chat/icon-beta.png
+Sent all of http://www.g2play.net/store/skin1/modules/Live_Chat/icon-beta.png
+REQUESTING: http://www.g2play.net/store/skin1/images/dingbats_affiliates.gif
+Caching: http://www.g2play.net/store/skin1/modules/Social_Shopping/last_satisfaction_rank_bg.jpg
+Sent all of http://www.g2play.net/store/skin1/modules/Social_Shopping/last_satisfaction_rank_bg.jpg
+REQUESTING: http://www.g2play.net/store/skin1/images/Bestsellers/item_bg.jpg
+Caching: http://www.g2play.net/store/skin1/modules/Social_Shopping/stars.png
+Sent all of http://www.g2play.net/store/skin1/modules/Social_Shopping/stars.png
+REQUESTING: http://www.g2play.net/store/skin1/images/Bestsellers/yellow_bg.jpg
+Caching: http://www.g2play.net/store/skin1/modules/Social_Shopping/smile_yellow.png
+Sent all of http://www.g2play.net/store/skin1/modules/Social_Shopping/smile_yellow.png
+REQUESTING: http://www.g2play.net/store/skin1/images/Bestsellers/blue_bg.jpg
+Caching: http://www.g2play.net/store/skin1/modules/Social_Shopping/last_X_info_bg.jpg
+Sent all of http://www.g2play.net/store/skin1/modules/Social_Shopping/last_X_info_bg.jpg
+REQUESTING: http://www.g2play.net/store/skin1/images/dingbats_help.gif
+Caching: http://www.g2play.net/store/skin1/modules/Social_Shopping/review_bg.jpg
+Caching: http://www.g2play.net/store/skin1/modules/xcms/images/arrow-menu-entry.png
+Sent all of http://www.g2play.net/store/skin1/modules/Social_Shopping/review_bg.jpg
+Sent all of http://www.g2play.net/store/skin1/modules/xcms/images/arrow-menu-entry.png
+REQUESTING: http://www.g2play.net/store/skin1/images/menu_arrow.gif
+REQUESTING: http://chat1c.livechatinc.com/licence/1056912/button.cgi?lang=en&groups=3&d=1333459856053
+Caching: http://www.g2play.net/store/skin1/images/dingbats_news.gif
+Sent all of http://www.g2play.net/store/skin1/images/dingbats_news.gif
+REQUESTING: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459856055&S1333459856.f22abc17a1&$&http%3A%2F%2Fwww.g2play.net%2Fstore%2F&$&1333459856&1056912&%24&1&1&0&0&0&%24&$&&G2PLAY.NET%20-%20BE%20SMART%2C%20PAY%20LESS%20%3B)&3&$&en
+Caching: http://www.g2play.net/store/skin1/images/dingbats_affiliates.gif
+Sent all of http://www.g2play.net/store/skin1/images/dingbats_affiliates.gif
+Caching: http://www.g2play.net/store/skin1/images/Bestsellers/item_bg.jpg
+Sent all of http://www.g2play.net/store/skin1/images/Bestsellers/item_bg.jpg
+Caching: http://www.g2play.net/store/skin1/images/Bestsellers/yellow_bg.jpg
+Sent all of http://www.g2play.net/store/skin1/images/Bestsellers/yellow_bg.jpg
+Caching: http://www.g2play.net/store/skin1/images/Bestsellers/blue_bg.jpg
+Sent all of http://www.g2play.net/store/skin1/images/Bestsellers/blue_bg.jpg
+Caching: http://www.g2play.net/store/skin1/images/dingbats_help.gif
+Sent all of http://www.g2play.net/store/skin1/images/dingbats_help.gif
+Caching: http://www.g2play.net/store/skin1/images/menu_arrow.gif
+Sent all of http://www.g2play.net/store/skin1/images/menu_arrow.gif
+Caching: http://chat1c.livechatinc.com/licence/1056912/button.cgi?lang=en&groups=3&d=1333459856053
+Sent all of http://chat1c.livechatinc.com/licence/1056912/button.cgi?lang=en&groups=3&d=1333459856053
+Caching: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459856055&S1333459856.f22abc17a1&$&http%3A%2F%2Fwww.g2play.net%2Fstore%2F&$&1333459856&1056912&%24&1&1&0&0&0&%24&$&&G2PLAY.NET%20-%20BE%20SMART%2C%20PAY%20LESS%20%3B)&3&$&en
+Sent all of http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459856055&S1333459856.f22abc17a1&$&http%3A%2F%2Fwww.g2play.net%2Fstore%2F&$&1333459856&1056912&%24&1&1&0&0&0&%24&$&&G2PLAY.NET%20-%20BE%20SMART%2C%20PAY%20LESS%20%3B)&3&$&en
+REQUESTING: http://www.g2play.net/store/skin1/favicon.ico
+Serving up cached request of: http://www.g2play.net/store/skin1/favicon.ico
+Sent all of http://www.g2play.net/store/skin1/favicon.ico
+REQUESTING: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459861057&S1333459856.f22abc17a1
+Caching: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459861057&S1333459856.f22abc17a1
+Sent all of http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459861057&S1333459856.f22abc17a1
+REQUESTING: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459867060&S1333459856.f22abc17a1
+Caching: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459867060&S1333459856.f22abc17a1
+Sent all of http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459867060&S1333459856.f22abc17a1
+REQUESTING: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459873064&S1333459856.f22abc17a1
+Caching: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459873064&S1333459856.f22abc17a1
+Sent all of http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459873064&S1333459856.f22abc17a1
+REQUESTING: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459880074&S1333459856.f22abc17a1
+Caching: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459880074&S1333459856.f22abc17a1
+Sent all of http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459880074&S1333459856.f22abc17a1
+REQUESTING: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459888077&S1333459856.f22abc17a1
+Caching: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459888077&S1333459856.f22abc17a1
+Sent all of http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459888077&S1333459856.f22abc17a1
+REQUESTING: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459896081&S1333459856.f22abc17a1
+Caching: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459896081&S1333459856.f22abc17a1
+Sent all of http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459896081&S1333459856.f22abc17a1
+REQUESTING: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459904084&S1333459856.f22abc17a1
+Caching: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459904084&S1333459856.f22abc17a1
+Sent all of http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459904084&S1333459856.f22abc17a1
+REQUESTING: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459913089&S1333459856.f22abc17a1
+Closing Proxy Server
+Stopping Proxy Server.
+Caching: http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459913089&S1333459856.f22abc17a1
+Sent all of http://chat1c.livechatinc.com/licence/1056912/control.cgi?1333459913089&S1333459856.f22abc17a1
+Program Closing
+Saving Log
+2012-04-03 14:33:15
+Blocking facebook
+Program Closing
+Saving Log
+2012-04-03 14:33:31
+Blocking facebook.com
+Program Closing
+Saving Log
+2012-04-03 14:34:12
+Program Closing
+Saving Log
+2012-04-03 16:03:52
+Proxy Username and password saved
+Clearing Proxy Details
+Required fields cannot be left blank
+Proxy Username and password saved
+Program Closing
+Saving Log
+2012-04-03 16:09:04
+Program Closing
+Saving Log
+2012-04-03 16:16:11
+Starting Proxy Server on port 1913
+Listening on port1913
+Closing Proxy Server
+Stopping Proxy Server.
+REQUESTING: http://google.ie/
+Caching: http://google.ie/
+Sent all of http://google.ie/
+Removing Cached data forhttp://google.ie/
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-03 17:01:43
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://www.google.ie/
+Caching: http://www.google.ie/
+Sent all of http://www.google.ie/
+REQUESTING: http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+REQUESTING: http://www.google.ie/images/srpr/logo1w.png
+REQUESTING: http://www.google.ie/images/srpr/nav_logo80.png
+Caching: http://www.google.ie/images/srpr/logo1w.png
+Sent all of http://www.google.ie/images/srpr/logo1w.png
+Caching: http://www.google.ie/images/srpr/nav_logo80.png
+Sent all of http://www.google.ie/images/srpr/nav_logo80.png
+Caching: http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+Sent all of http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+REQUESTING: http://clients1.google.ie/generate_204
+Caching: http://clients1.google.ie/generate_204
+Sent all of http://clients1.google.ie/generate_204
+REQUESTING: http://www.google.ie/csi?v=3&s=webhp&action=&e=34635,34956,36683,36888,36934,37501,37573,37646,37675,37682,37953,37994,38108&ei=Ehx7T7eaIYW6hAfYnKCOCg&imc=0&imn=0&imp=0&rt=xjsls.5,prt.6,xjses.178,xjsee.196,xjs.197,ol.216,iml.6,wsrt.454,cst.0,dnst.0,rqst.-13,rspt.-435
+REQUESTING: http://www.google.ie/favicon.ico
+Caching: http://www.google.ie/favicon.ico
+Caching: http://www.google.ie/csi?v=3&s=webhp&action=&e=34635,34956,36683,36888,36934,37501,37573,37646,37675,37682,37953,37994,38108&ei=Ehx7T7eaIYW6hAfYnKCOCg&imc=0&imn=0&imp=0&rt=xjsls.5,prt.6,xjses.178,xjsee.196,xjs.197,ol.216,iml.6,wsrt.454,cst.0,dnst.0,rqst.-13,rspt.-435
+Sent all of http://www.google.ie/favicon.ico
+Sent all of http://www.google.ie/csi?v=3&s=webhp&action=&e=34635,34956,36683,36888,36934,37501,37573,37646,37675,37682,37953,37994,38108&ei=Ehx7T7eaIYW6hAfYnKCOCg&imc=0&imn=0&imp=0&rt=xjsls.5,prt.6,xjses.178,xjsee.196,xjs.197,ol.216,iml.6,wsrt.454,cst.0,dnst.0,rqst.-13,rspt.-435
+Blocking www.google.ie
+Attempted to access Blacklisted site: www.google.ie at IP 209.85.143.94
+Sent all of http://www.google.ie/
+Removing www.google.ie
+REQUESTING: http://www.google.ie/
+Serving up cached request of: http://www.google.ie/
+Sent all of http://www.google.ie/
+REQUESTING: http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+Serving up cached request of: http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+Sent all of http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+REQUESTING: http://www.google.ie/images/srpr/logo1w.png
+Serving up cached request of: http://www.google.ie/images/srpr/logo1w.png
+Sent all of http://www.google.ie/images/srpr/logo1w.png
+REQUESTING: http://clients1.google.ie/generate_204
+Serving up cached request of: http://clients1.google.ie/generate_204
+REQUESTING: http://www.google.ie/images/srpr/nav_logo80.png
+Sent all of http://clients1.google.ie/generate_204
+Serving up cached request of: http://www.google.ie/images/srpr/nav_logo80.png
+Sent all of http://www.google.ie/images/srpr/nav_logo80.png
+REQUESTING: http://www.google.ie/csi?v=3&s=webhp&action=&e=34635,34956,36683,36888,36934,37501,37573,37646,37675,37682,37953,37994,38108&ei=Ehx7T7eaIYW6hAfYnKCOCg&imc=0&imn=0&imp=0&rt=xjsls.6,prt.6,xjses.44,xjsee.68,xjs.69,ol.96,iml.6,wsrt.42,cst.0,dnst.0,rqst.-11,rspt.-28
+Caching: http://www.google.ie/csi?v=3&s=webhp&action=&e=34635,34956,36683,36888,36934,37501,37573,37646,37675,37682,37953,37994,38108&ei=Ehx7T7eaIYW6hAfYnKCOCg&imc=0&imn=0&imp=0&rt=xjsls.6,prt.6,xjses.44,xjsee.68,xjs.69,ol.96,iml.6,wsrt.42,cst.0,dnst.0,rqst.-11,rspt.-28
+Sent all of http://www.google.ie/csi?v=3&s=webhp&action=&e=34635,34956,36683,36888,36934,37501,37573,37646,37675,37682,37953,37994,38108&ei=Ehx7T7eaIYW6hAfYnKCOCg&imc=0&imn=0&imp=0&rt=xjsls.6,prt.6,xjses.44,xjsee.68,xjs.69,ol.96,iml.6,wsrt.42,cst.0,dnst.0,rqst.-11,rspt.-28
+Viewing cached copy of http://www.google.ie/
+Viewing cached copy of http://www.google.ie/images/srpr/logo1w.png
+Viewing cached copy of http://www.google.ie/images/srpr/nav_logo80.png
+Viewing cached copy of http://www.google.ie/
+Viewing cached copy of http://www.google.ie/
+Viewing cached copy of http://www.google.ie/
+Clearing Cache List
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-03 17:06:45
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://www.youtube.com/
+Caching: http://www.youtube.com/
+Sent all of http://www.youtube.com/
+REQUESTING: http://s.ytimg.com/yt/cssbin/www-refresh-vflKd4-LX.css
+REQUESTING: http://s.ytimg.com/yt/cssbin/www-guide-vflghLTqf.css
+REQUESTING: http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif
+REQUESTING: http://i4.ytimg.com/vi/odxzGDCQA9U/hqdefault.jpg
+REQUESTING: http://www.youtube.com/gen_204?a=fvhr&v=odxzGDCQA9U&nocache=1333468947.1
+REQUESTING: http://s.ytimg.com/yt/jsbin/www-core-vflG8ahJ1.js
+REQUESTING: http://s.ytimg.com/yt/jsbin/www-guide-vfl5TLrOX.js
+REQUESTING: http://s.ytimg.com/yt/favicon-refresh-vfldLzJxy.ico
+Caching: http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif
+Sent all of http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif
+Caching: http://s.ytimg.com/yt/favicon-refresh-vfldLzJxy.ico
+Sent all of http://s.ytimg.com/yt/favicon-refresh-vfldLzJxy.ico
+Caching: http://www.youtube.com/gen_204?a=fvhr&v=odxzGDCQA9U&nocache=1333468947.1
+Sent all of http://www.youtube.com/gen_204?a=fvhr&v=odxzGDCQA9U&nocache=1333468947.1
+Caching: http://s.ytimg.com/yt/cssbin/www-guide-vflghLTqf.css
+Sent all of http://s.ytimg.com/yt/cssbin/www-guide-vflghLTqf.css
+Caching: http://i4.ytimg.com/vi/odxzGDCQA9U/hqdefault.jpg
+Sent all of http://i4.ytimg.com/vi/odxzGDCQA9U/hqdefault.jpg
+Caching: http://s.ytimg.com/yt/jsbin/www-guide-vfl5TLrOX.js
+Sent all of http://s.ytimg.com/yt/jsbin/www-guide-vfl5TLrOX.js
+Caching: http://s.ytimg.com/yt/cssbin/www-refresh-vflKd4-LX.css
+Sent all of http://s.ytimg.com/yt/cssbin/www-refresh-vflKd4-LX.css
+REQUESTING: http://s.ytimg.com/yt/imgbin/www-refreshbg-vflC3wnbM.png
+REQUESTING: http://www.youtube.com/gen_204?a=fvhr&v=odxzGDCQA9U&nocache=1333468947.1
+Serving up cached request of: http://www.youtube.com/gen_204?a=fvhr&v=odxzGDCQA9U&nocache=1333468947.1
+Sent all of http://www.youtube.com/gen_204?a=fvhr&v=odxzGDCQA9U&nocache=1333468947.1
+Caching: http://s.ytimg.com/yt/imgbin/www-refreshbg-vflC3wnbM.png
+Sent all of http://s.ytimg.com/yt/imgbin/www-refreshbg-vflC3wnbM.png
+Caching: http://s.ytimg.com/yt/jsbin/www-core-vflG8ahJ1.js
+Sent all of http://s.ytimg.com/yt/jsbin/www-core-vflG8ahJ1.js
+REQUESTING: http://s.ytimg.com/yt/imgbin/www-refresh-vflmpZ5kj.png
+REQUESTING: http://s.ytimg.com/yt/imgbin/www-guide-vflYDUjaV.png
+REQUESTING: http://s.ytimg.com/yt/img/flintstone/watch_later-vflEXZP3O.png
+Caching: http://s.ytimg.com/yt/img/flintstone/watch_later-vflEXZP3O.png
+Sent all of http://s.ytimg.com/yt/img/flintstone/watch_later-vflEXZP3O.png
+Caching: http://s.ytimg.com/yt/imgbin/www-refresh-vflmpZ5kj.png
+Sent all of http://s.ytimg.com/yt/imgbin/www-refresh-vflmpZ5kj.png
+REQUESTING: http://i4.ytimg.com/vi/odxzGDCQA9U/default.jpg
+Caching: http://s.ytimg.com/yt/imgbin/www-guide-vflYDUjaV.png
+Sent all of http://s.ytimg.com/yt/imgbin/www-guide-vflYDUjaV.png
+REQUESTING: http://i2.ytimg.com/vi/Iutd8PzRtCc/default.jpg
+REQUESTING: http://i3.ytimg.com/vi/2kGHtmwl9c0/default.jpg
+REQUESTING: http://i3.ytimg.com/vi/n_oJj0K5vMc/default.jpg
+REQUESTING: http://i4.ytimg.com/i/_nz0tWIp6VgFcMpnIpnVEw/1.jpg?v=4f684b43
+REQUESTING: http://i1.ytimg.com/vi/019gKvv0Cwc/default.jpg
+REQUESTING: http://s.ytimg.com/yt/img/no_videos_140-vfl1fDI7-.png
+REQUESTING: http://i2.ytimg.com/vi/y1iq5Q9T4KE/default.jpg
+Caching: http://i4.ytimg.com/vi/odxzGDCQA9U/default.jpg
+Sent all of http://i4.ytimg.com/vi/odxzGDCQA9U/default.jpg
+REQUESTING: http://i1.ytimg.com/vi/pPxYuw1knfs/default.jpg
+Caching: http://i3.ytimg.com/vi/2kGHtmwl9c0/default.jpg
+Sent all of http://i3.ytimg.com/vi/2kGHtmwl9c0/default.jpg
+REQUESTING: http://i1.ytimg.com/i/PhFPm0bWKeTSwdOL_f-yKw/1.jpg?v=ade4d1
+Caching: http://i3.ytimg.com/vi/n_oJj0K5vMc/default.jpg
+Sent all of http://i3.ytimg.com/vi/n_oJj0K5vMc/default.jpg
+REQUESTING: http://i1.ytimg.com/vi/0jxgbwXvbwQ/default.jpg
+Caching: http://i4.ytimg.com/i/_nz0tWIp6VgFcMpnIpnVEw/1.jpg?v=4f684b43
+Sent all of http://i4.ytimg.com/i/_nz0tWIp6VgFcMpnIpnVEw/1.jpg?v=4f684b43
+REQUESTING: http://i4.ytimg.com/vi/wvTDO_GeEdU/default.jpg
+Caching: http://i1.ytimg.com/vi/019gKvv0Cwc/default.jpg
+Sent all of http://i1.ytimg.com/vi/019gKvv0Cwc/default.jpg
+REQUESTING: http://i4.ytimg.com/i/cnKDJLyTksA9SbOlWp48aw/1.jpg?v=993d78
+Caching: http://s.ytimg.com/yt/img/no_videos_140-vfl1fDI7-.png
+Sent all of http://s.ytimg.com/yt/img/no_videos_140-vfl1fDI7-.png
+REQUESTING: http://i1.ytimg.com/vi/t5HBYVjSTbw/default.jpg
+Caching: http://i2.ytimg.com/vi/Iutd8PzRtCc/default.jpg
+Sent all of http://i2.ytimg.com/vi/Iutd8PzRtCc/default.jpg
+REQUESTING: http://i3.ytimg.com/vi/VYc8b-S4kh0/default.jpg
+Caching: http://i2.ytimg.com/vi/y1iq5Q9T4KE/default.jpg
+Sent all of http://i2.ytimg.com/vi/y1iq5Q9T4KE/default.jpg
+Caching: http://i1.ytimg.com/vi/pPxYuw1knfs/default.jpg
+Sent all of http://i1.ytimg.com/vi/pPxYuw1knfs/default.jpg
+Caching: http://i1.ytimg.com/i/PhFPm0bWKeTSwdOL_f-yKw/1.jpg?v=ade4d1
+Sent all of http://i1.ytimg.com/i/PhFPm0bWKeTSwdOL_f-yKw/1.jpg?v=ade4d1
+Caching: http://i4.ytimg.com/i/cnKDJLyTksA9SbOlWp48aw/1.jpg?v=993d78
+Sent all of http://i4.ytimg.com/i/cnKDJLyTksA9SbOlWp48aw/1.jpg?v=993d78
+Caching: http://i1.ytimg.com/vi/0jxgbwXvbwQ/default.jpg
+Sent all of http://i1.ytimg.com/vi/0jxgbwXvbwQ/default.jpg
+Caching: http://i4.ytimg.com/vi/wvTDO_GeEdU/default.jpg
+Sent all of http://i4.ytimg.com/vi/wvTDO_GeEdU/default.jpg
+Caching: http://i1.ytimg.com/vi/t5HBYVjSTbw/default.jpg
+Sent all of http://i1.ytimg.com/vi/t5HBYVjSTbw/default.jpg
+Caching: http://i3.ytimg.com/vi/VYc8b-S4kh0/default.jpg
+Sent all of http://i3.ytimg.com/vi/VYc8b-S4kh0/default.jpg
+REQUESTING: http://csi.gstatic.com/csi?v=2&s=youtube&action=glo&e=916003,907210,910206,911108&li=0&rt=ct.682,homenav.696,homesidebar.703,homefeed.738,homefooter.740,foot_begin.740,foot_end.742,js_head.933,js_guide.946,js_page.947,js_foot.969,ol.1178,aft.1178
+REQUESTING: http://s.ytimg.com/yt/jsbin/www-searchbox-vflNi9uDu.js
+Caching: http://s.ytimg.com/yt/jsbin/www-searchbox-vflNi9uDu.js
+Sent all of http://s.ytimg.com/yt/jsbin/www-searchbox-vflNi9uDu.js
+REQUESTING: http://clients1.google.com/generate_204
+REQUESTING: http://www.gstatic.com/inputtools/images/tia.png
+Caching: http://clients1.google.com/generate_204
+Sent all of http://clients1.google.com/generate_204
+Caching: http://www.gstatic.com/inputtools/images/tia.png
+Sent all of http://www.gstatic.com/inputtools/images/tia.png
+Caching: http://csi.gstatic.com/csi?v=2&s=youtube&action=glo&e=916003,907210,910206,911108&li=0&rt=ct.682,homenav.696,homesidebar.703,homefeed.738,homefooter.740,foot_begin.740,foot_end.742,js_head.933,js_guide.946,js_page.947,js_foot.969,ol.1178,aft.1178
+Sent all of http://csi.gstatic.com/csi?v=2&s=youtube&action=glo&e=916003,907210,910206,911108&li=0&rt=ct.682,homenav.696,homesidebar.703,homefeed.738,homefooter.740,foot_begin.740,foot_end.742,js_head.933,js_guide.946,js_page.947,js_foot.969,ol.1178,aft.1178
+REQUESTING: http://www.youtube.com/watch?v=n_oJj0K5vMc&feature=g-logo&context=G23a7670FOAAAAAAAAAA
+Caching: http://www.youtube.com/watch?v=n_oJj0K5vMc&feature=g-logo&context=G23a7670FOAAAAAAAAAA
+Sent all of http://www.youtube.com/watch?v=n_oJj0K5vMc&feature=g-logo&context=G23a7670FOAAAAAAAAAA
+REQUESTING: http://s.ytimg.com/yt/cssbin/www-refresh-vflKd4-LX.css
+Serving up cached request of: http://s.ytimg.com/yt/cssbin/www-refresh-vflKd4-LX.css
+Sent all of http://s.ytimg.com/yt/cssbin/www-refresh-vflKd4-LX.css
+REQUESTING: http://www.youtube-nocookie.com/gen_204?attributionpartner=TheInternetVids%2Buser
+REQUESTING: http://www.youtube-nocookie.com/robots.txt?attributionpartner=TheInternetVids%2Buser&v=n_oJj0K5vMc
+REQUESTING: http://s.ytimg.com/yt/jsbin/www-core-vflG8ahJ1.js
+REQUESTING: http://s.ytimg.com/yt/jsbin/www-livecomments-vflXF-4YT.js
+Serving up cached request of: http://s.ytimg.com/yt/jsbin/www-core-vflG8ahJ1.js
+Sent all of http://s.ytimg.com/yt/jsbin/www-core-vflG8ahJ1.js
+REQUESTING: http://www.googletagservices.com/tag/js/gpt.js
+REQUESTING: http://o-o.preferred.dub06s01.v6.lscache8.c.youtube.com/generate_204?upn=MTU2MzQ2MzY2Nzg0MTUyMzIyNTk&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&fexp=912111%2C909707%2C912602%2C905270&algorithm=throttle-factor&itag=34&ip=134.0.0.0&burst=40&sver=3&signature=93FDB1A74A8694EAA30ED26634B184A464D05212.922D2AE6FC9D90C008A6231146FD17393D22EF28&source=youtube&expire=1333493808&key=yt1&ipbits=8&factor=1.25&cp=U0hSSFRUUV9FUkNOMl9MTlVJOllWVmM3MGF2OUFV&id=9ffa098f42b9bcc7
+Caching: http://www.youtube-nocookie.com/gen_204?attributionpartner=TheInternetVids%2Buser
+Sent all of http://www.youtube-nocookie.com/gen_204?attributionpartner=TheInternetVids%2Buser
+Caching: http://o-o.preferred.dub06s01.v6.lscache8.c.youtube.com/generate_204?upn=MTU2MzQ2MzY2Nzg0MTUyMzIyNTk&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&fexp=912111%2C909707%2C912602%2C905270&algorithm=throttle-factor&itag=34&ip=134.0.0.0&burst=40&sver=3&signature=93FDB1A74A8694EAA30ED26634B184A464D05212.922D2AE6FC9D90C008A6231146FD17393D22EF28&source=youtube&expire=1333493808&key=yt1&ipbits=8&factor=1.25&cp=U0hSSFRUUV9FUkNOMl9MTlVJOllWVmM3MGF2OUFV&id=9ffa098f42b9bcc7
+Sent all of http://o-o.preferred.dub06s01.v6.lscache8.c.youtube.com/generate_204?upn=MTU2MzQ2MzY2Nzg0MTUyMzIyNTk&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&fexp=912111%2C909707%2C912602%2C905270&algorithm=throttle-factor&itag=34&ip=134.0.0.0&burst=40&sver=3&signature=93FDB1A74A8694EAA30ED26634B184A464D05212.922D2AE6FC9D90C008A6231146FD17393D22EF28&source=youtube&expire=1333493808&key=yt1&ipbits=8&factor=1.25&cp=U0hSSFRUUV9FUkNOMl9MTlVJOllWVmM3MGF2OUFV&id=9ffa098f42b9bcc7
+REQUESTING: http://s.ytimg.com/yt/imgbin/www-refreshbg-vflC3wnbM.png
+REQUESTING: http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif
+Serving up cached request of: http://s.ytimg.com/yt/imgbin/www-refreshbg-vflC3wnbM.png
+Serving up cached request of: http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif
+Sent all of http://s.ytimg.com/yt/imgbin/www-refreshbg-vflC3wnbM.png
+Sent all of http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif
+Caching: http://www.youtube-nocookie.com/robots.txt?attributionpartner=TheInternetVids%2Buser&v=n_oJj0K5vMc
+REQUESTING: http://s.ytimg.com/yt/imgbin/www-refresh-vflmpZ5kj.png
+Sent all of http://www.youtube-nocookie.com/robots.txt?attributionpartner=TheInternetVids%2Buser&v=n_oJj0K5vMc
+Serving up cached request of: http://s.ytimg.com/yt/imgbin/www-refresh-vflmpZ5kj.png
+Sent all of http://s.ytimg.com/yt/imgbin/www-refresh-vflmpZ5kj.png
+Caching: http://s.ytimg.com/yt/jsbin/www-livecomments-vflXF-4YT.js
+Sent all of http://s.ytimg.com/yt/jsbin/www-livecomments-vflXF-4YT.js
+Caching: http://www.googletagservices.com/tag/js/gpt.js
+Sent all of http://www.googletagservices.com/tag/js/gpt.js
+REQUESTING: http://s.ytimg.com/yt/img/flintstone/watch_later-vflEXZP3O.png
+Serving up cached request of: http://s.ytimg.com/yt/img/flintstone/watch_later-vflEXZP3O.png
+Sent all of http://s.ytimg.com/yt/img/flintstone/watch_later-vflEXZP3O.png
+REQUESTING: http://s.ytimg.com/yt/swfbin/watch_as3-vflqrJwOA.swf
+Caching: http://s.ytimg.com/yt/swfbin/watch_as3-vflqrJwOA.swf
+Sent all of http://s.ytimg.com/yt/swfbin/watch_as3-vflqrJwOA.swf
+REQUESTING: http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22ads%22%2C%22version%22%3A%221%22%2C%22callback%22%3A%22(function()%7B%7D)%22%2C%22packages%22%3A%5B%22content%22%5D%7D%5D%7D
+REQUESTING: http://i1.ytimg.com/vi/p36eHu2cPjw/default.jpg
+REQUESTING: http://i4.ytimg.com/vi/sE2t4S_ufKc/default.jpg
+REQUESTING: http://i2.ytimg.com/vi/YXh9RQCvxmg/default.jpg
+REQUESTING: http://i1.ytimg.com/vi/T3-PKVKdBhc/default.jpg
+REQUESTING: http://i4.ytimg.com/vi/7FI0GXgp34k/default.jpg
+REQUESTING: http://i4.ytimg.com/vi/cuQbLF8PLWQ/default.jpg
+REQUESTING: http://i4.ytimg.com/vi/ow2AEWh9IMo/default.jpg
+Caching: http://i2.ytimg.com/vi/YXh9RQCvxmg/default.jpg
+Sent all of http://i2.ytimg.com/vi/YXh9RQCvxmg/default.jpg
+REQUESTING: http://s.ytimg.com/yt/jsbin/www-searchbox-vflNi9uDu.js
+Serving up cached request of: http://s.ytimg.com/yt/jsbin/www-searchbox-vflNi9uDu.js
+Sent all of http://s.ytimg.com/yt/jsbin/www-searchbox-vflNi9uDu.js
+Caching: http://i1.ytimg.com/vi/T3-PKVKdBhc/default.jpg
+Sent all of http://i1.ytimg.com/vi/T3-PKVKdBhc/default.jpg
+Caching: http://i4.ytimg.com/vi/cuQbLF8PLWQ/default.jpg
+Sent all of http://i4.ytimg.com/vi/cuQbLF8PLWQ/default.jpg
+Caching: http://i4.ytimg.com/vi/sE2t4S_ufKc/default.jpg
+Sent all of http://i4.ytimg.com/vi/sE2t4S_ufKc/default.jpg
+Caching: http://i4.ytimg.com/vi/ow2AEWh9IMo/default.jpg
+Sent all of http://i4.ytimg.com/vi/ow2AEWh9IMo/default.jpg
+Caching: http://i4.ytimg.com/vi/7FI0GXgp34k/default.jpg
+Sent all of http://i4.ytimg.com/vi/7FI0GXgp34k/default.jpg
+Caching: http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22ads%22%2C%22version%22%3A%221%22%2C%22callback%22%3A%22(function()%7B%7D)%22%2C%22packages%22%3A%5B%22content%22%5D%7D%5D%7D
+Sent all of http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22ads%22%2C%22version%22%3A%221%22%2C%22callback%22%3A%22(function()%7B%7D)%22%2C%22packages%22%3A%5B%22content%22%5D%7D%5D%7D
+Caching: http://i1.ytimg.com/vi/p36eHu2cPjw/default.jpg
+Sent all of http://i1.ytimg.com/vi/p36eHu2cPjw/default.jpg
+REQUESTING: http://csi.gstatic.com/csi?v=2&s=youtube&action=watch5ad&e=912111,909707,912602,905270&pr=1&an=aftv,afv&li=0&docid=n_oJj0K5vMc&fmt=34&plid=AAS8yG9vr5i2MlpC&asv=3&fv=MAC%2011%2C1%2C102%2C62&rt=ct.93,bf.103,foot_begin.143,foot_end.145,js_head.203,js_page.473,js_foot.473,ol.1495,gv.1729,vr.1941,fs.1476,vl.212,aft.1941
+REQUESTING: http://clients1.google.com/generate_204
+Serving up cached request of: http://clients1.google.com/generate_204
+REQUESTING: http://www.gstatic.com/inputtools/images/tia.png
+Serving up cached request of: http://www.gstatic.com/inputtools/images/tia.png
+Sent all of http://clients1.google.com/generate_204
+Sent all of http://www.gstatic.com/inputtools/images/tia.png
+Caching: http://csi.gstatic.com/csi?v=2&s=youtube&action=watch5ad&e=912111,909707,912602,905270&pr=1&an=aftv,afv&li=0&docid=n_oJj0K5vMc&fmt=34&plid=AAS8yG9vr5i2MlpC&asv=3&fv=MAC%2011%2C1%2C102%2C62&rt=ct.93,bf.103,foot_begin.143,foot_end.145,js_head.203,js_page.473,js_foot.473,ol.1495,gv.1729,vr.1941,fs.1476,vl.212,aft.1941
+Sent all of http://csi.gstatic.com/csi?v=2&s=youtube&action=watch5ad&e=912111,909707,912602,905270&pr=1&an=aftv,afv&li=0&docid=n_oJj0K5vMc&fmt=34&plid=AAS8yG9vr5i2MlpC&asv=3&fv=MAC%2011%2C1%2C102%2C62&rt=ct.93,bf.103,foot_begin.143,foot_end.145,js_head.203,js_page.473,js_foot.473,ol.1495,gv.1729,vr.1941,fs.1476,vl.212,aft.1941
+REQUESTING: http://fpdownload2.macromedia.com/get/flashplayer/update/current/xml/version_en_mac_pl.xml
+REQUESTING: http://o-o.preferred.dub06s01.v6.lscache8.c.youtube.com/videoplayback?upn=MTU2MzQ2MzY2Nzg0MTUyMzIyNTk&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&fexp=912111%2C909707%2C912602%2C905270&algorithm=throttle-factor&itag=34&ip=134.0.0.0&burst=40&sver=3&signature=93FDB1A74A8694EAA30ED26634B184A464D05212.922D2AE6FC9D90C008A6231146FD17393D22EF28&source=youtube&expire=1333493808&key=yt1&ipbits=8&factor=1.25&cp=U0hSSFRUUV9FUkNOMl9MTlVJOllWVmM3MGF2OUFV&id=9ffa098f42b9bcc7&ptk=TheInternetVids%2Buser&ptchn=TheInternetVids&cm2=1
+REQUESTING: http://www.youtube.com/crossdomain.xml
+Caching: http://www.youtube.com/crossdomain.xml
+Sent all of http://www.youtube.com/crossdomain.xml
+Caching: http://fpdownload2.macromedia.com/get/flashplayer/update/current/xml/version_en_mac_pl.xml
+Sent all of http://fpdownload2.macromedia.com/get/flashplayer/update/current/xml/version_en_mac_pl.xml
+REQUESTING: http://www.youtube.com/live_comments?action_get_comments=1&video_id=n_oJj0K5vMc&lt=1333468948&format=html&nnc=0&pd=15000&rc=0&dst=0&lch=782&ps=1&pvd=63&pct=0&scr=false
+Caching: http://www.youtube.com/live_comments?action_get_comments=1&video_id=n_oJj0K5vMc&lt=1333468948&format=html&nnc=0&pd=15000&rc=0&dst=0&lch=782&ps=1&pvd=63&pct=0&scr=false
+Sent all of http://www.youtube.com/live_comments?action_get_comments=1&video_id=n_oJj0K5vMc&lt=1333468948&format=html&nnc=0&pd=15000&rc=0&dst=0&lch=782&ps=1&pvd=63&pct=0&scr=false
+Caching: http://o-o.preferred.dub06s01.v6.lscache8.c.youtube.com/videoplayback?upn=MTU2MzQ2MzY2Nzg0MTUyMzIyNTk&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&fexp=912111%2C909707%2C912602%2C905270&algorithm=throttle-factor&itag=34&ip=134.0.0.0&burst=40&sver=3&signature=93FDB1A74A8694EAA30ED26634B184A464D05212.922D2AE6FC9D90C008A6231146FD17393D22EF28&source=youtube&expire=1333493808&key=yt1&ipbits=8&factor=1.25&cp=U0hSSFRUUV9FUkNOMl9MTlVJOllWVmM3MGF2OUFV&id=9ffa098f42b9bcc7&ptk=TheInternetVids%2Buser&ptchn=TheInternetVids&cm2=1
+Sent all of http://o-o.preferred.dub06s01.v6.lscache8.c.youtube.com/videoplayback?upn=MTU2MzQ2MzY2Nzg0MTUyMzIyNTk&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&fexp=912111%2C909707%2C912602%2C905270&algorithm=throttle-factor&itag=34&ip=134.0.0.0&burst=40&sver=3&signature=93FDB1A74A8694EAA30ED26634B184A464D05212.922D2AE6FC9D90C008A6231146FD17393D22EF28&source=youtube&expire=1333493808&key=yt1&ipbits=8&factor=1.25&cp=U0hSSFRUUV9FUkNOMl9MTlVJOllWVmM3MGF2OUFV&id=9ffa098f42b9bcc7&ptk=TheInternetVids%2Buser&ptchn=TheInternetVids&cm2=1
+REQUESTING: http://s.youtube.com/s?playback=1&hbt=64.329&volume=100&h=360&sendtmp=1&fexp=912602,909707,905270,912111&w=640&docid=n_oJj0K5vMc&nsiabblmean=24052.000&sd=B4A7D6121HH1333468959169143&feature=g-logo&nsivbblmin=266696.000&et=0.067&cfps=0&playerw=640&el=detailpage&st=0.067&screenw=1440&nsiabblc=3&plid=AAS8yG9vr5i2MlpC&screenh=900&len=62.533&hbd=4591567&referrer=None&nsivbblmean=321201.333&hl=en_US&nsivbblmax=351097.000&nsiabblmin=16324.000&nsivbblc=3&playerh=390&rt=24.944&bc=3428802&lact=9197277&scoville=1&cr=IE&sdetail=f%3Ag-logo%2C&vq=auto&pd=25.364&md=1&fmt=34&rendering=accelerated&mos=0&csipt=watch5ad&ns=yt&decoding=accelerated&fs=0&fv=MAC%2011%2C1%2C102%2C62&ptk=TheInternetVids%2Buser&vid=mAx8TRKJE1yaP6DBCWOGlIiFYeaqvejMC&nsiabblmax=27930.000
+REQUESTING: http://s2.youtube.com/crossdomain.xml
+Caching: http://s.youtube.com/s?playback=1&hbt=64.329&volume=100&h=360&sendtmp=1&fexp=912602,909707,905270,912111&w=640&docid=n_oJj0K5vMc&nsiabblmean=24052.000&sd=B4A7D6121HH1333468959169143&feature=g-logo&nsivbblmin=266696.000&et=0.067&cfps=0&playerw=640&el=detailpage&st=0.067&screenw=1440&nsiabblc=3&plid=AAS8yG9vr5i2MlpC&screenh=900&len=62.533&hbd=4591567&referrer=None&nsivbblmean=321201.333&hl=en_US&nsivbblmax=351097.000&nsiabblmin=16324.000&nsivbblc=3&playerh=390&rt=24.944&bc=3428802&lact=9197277&scoville=1&cr=IE&sdetail=f%3Ag-logo%2C&vq=auto&pd=25.364&md=1&fmt=34&rendering=accelerated&mos=0&csipt=watch5ad&ns=yt&decoding=accelerated&fs=0&fv=MAC%2011%2C1%2C102%2C62&ptk=TheInternetVids%2Buser&vid=mAx8TRKJE1yaP6DBCWOGlIiFYeaqvejMC&nsiabblmax=27930.000
+Sent all of http://s.youtube.com/s?playback=1&hbt=64.329&volume=100&h=360&sendtmp=1&fexp=912602,909707,905270,912111&w=640&docid=n_oJj0K5vMc&nsiabblmean=24052.000&sd=B4A7D6121HH1333468959169143&feature=g-logo&nsivbblmin=266696.000&et=0.067&cfps=0&playerw=640&el=detailpage&st=0.067&screenw=1440&nsiabblc=3&plid=AAS8yG9vr5i2MlpC&screenh=900&len=62.533&hbd=4591567&referrer=None&nsivbblmean=321201.333&hl=en_US&nsivbblmax=351097.000&nsiabblmin=16324.000&nsivbblc=3&playerh=390&rt=24.944&bc=3428802&lact=9197277&scoville=1&cr=IE&sdetail=f%3Ag-logo%2C&vq=auto&pd=25.364&md=1&fmt=34&rendering=accelerated&mos=0&csipt=watch5ad&ns=yt&decoding=accelerated&fs=0&fv=MAC%2011%2C1%2C102%2C62&ptk=TheInternetVids%2Buser&vid=mAx8TRKJE1yaP6DBCWOGlIiFYeaqvejMC&nsiabblmax=27930.000
+Caching: http://s2.youtube.com/crossdomain.xml
+Sent all of http://s2.youtube.com/crossdomain.xml
+REQUESTING: http://s.youtube.com/s?hbt=64.329&volume=100&h=360&sendtmp=1&fexp=912602,909707,905270,912111&w=640&docid=n_oJj0K5vMc&nsiabblmean=31367.430&sd=B4A7D6121HH1333468959169143&feature=g-logo&nsivbblmin=120677.000&et=9.985&cfps=15.444015444015443&playerw=640&el=detailpage&st=0&screenw=1440&nsiabblc=79&vtmp=1&plid=AAS8yG9vr5i2MlpC&screenh=900&len=62.533&hbd=4591567&referrer=None&nsivbblmean=173302.392&hl=en_US&nsivbblmax=342570.000&nsiabblmin=12047.000&nsivbblc=79&playerh=390&rt=34.994&bc=3428802&lact=9207326&scoville=1&cr=IE&sdetail=f%3Ag-logo%2C&vq=auto&md=1&fmt=34&rendering=accelerated&mos=0&csipt=watch5ad&ns=yt&decoding=accelerated&fs=0&ptk=TheInternetVids%2Buser&vid=mAx8TRKJE1yaP6DBCWOGlIiFYeaqvejMC&nsiabblmax=54480.000
+Caching: http://s.youtube.com/s?hbt=64.329&volume=100&h=360&sendtmp=1&fexp=912602,909707,905270,912111&w=640&docid=n_oJj0K5vMc&nsiabblmean=31367.430&sd=B4A7D6121HH1333468959169143&feature=g-logo&nsivbblmin=120677.000&et=9.985&cfps=15.444015444015443&playerw=640&el=detailpage&st=0&screenw=1440&nsiabblc=79&vtmp=1&plid=AAS8yG9vr5i2MlpC&screenh=900&len=62.533&hbd=4591567&referrer=None&nsivbblmean=173302.392&hl=en_US&nsivbblmax=342570.000&nsiabblmin=12047.000&nsivbblc=79&playerh=390&rt=34.994&bc=3428802&lact=9207326&scoville=1&cr=IE&sdetail=f%3Ag-logo%2C&vq=auto&md=1&fmt=34&rendering=accelerated&mos=0&csipt=watch5ad&ns=yt&decoding=accelerated&fs=0&ptk=TheInternetVids%2Buser&vid=mAx8TRKJE1yaP6DBCWOGlIiFYeaqvejMC&nsiabblmax=54480.000
+Sent all of http://s.youtube.com/s?hbt=64.329&volume=100&h=360&sendtmp=1&fexp=912602,909707,905270,912111&w=640&docid=n_oJj0K5vMc&nsiabblmean=31367.430&sd=B4A7D6121HH1333468959169143&feature=g-logo&nsivbblmin=120677.000&et=9.985&cfps=15.444015444015443&playerw=640&el=detailpage&st=0&screenw=1440&nsiabblc=79&vtmp=1&plid=AAS8yG9vr5i2MlpC&screenh=900&len=62.533&hbd=4591567&referrer=None&nsivbblmean=173302.392&hl=en_US&nsivbblmax=342570.000&nsiabblmin=12047.000&nsivbblc=79&playerh=390&rt=34.994&bc=3428802&lact=9207326&scoville=1&cr=IE&sdetail=f%3Ag-logo%2C&vq=auto&md=1&fmt=34&rendering=accelerated&mos=0&csipt=watch5ad&ns=yt&decoding=accelerated&fs=0&ptk=TheInternetVids%2Buser&vid=mAx8TRKJE1yaP6DBCWOGlIiFYeaqvejMC&nsiabblmax=54480.000
+REQUESTING: http://www.youtube.com/live_comments?action_get_comments=1&video_id=n_oJj0K5vMc&lt=1333468948&format=html&nnc=0&pd=30000&rc=1&dst=0&lch=782&ps=1&pvd=62.533&pct=19.76&scr=false
+Caching: http://www.youtube.com/live_comments?action_get_comments=1&video_id=n_oJj0K5vMc&lt=1333468948&format=html&nnc=0&pd=30000&rc=1&dst=0&lch=782&ps=1&pvd=62.533&pct=19.76&scr=false
+Sent all of http://www.youtube.com/live_comments?action_get_comments=1&video_id=n_oJj0K5vMc&lt=1333468948&format=html&nnc=0&pd=30000&rc=1&dst=0&lch=782&ps=1&pvd=62.533&pct=19.76&scr=false
+REQUESTING: http://s.youtube.com/s?hbt=64.329&volume=100&h=360&sendtmp=1&fexp=912602,909707,905270,912111&w=640&docid=n_oJj0K5vMc&nsiabblmean=56135.326&sd=B4A7D6121HH1333468959169143&feature=g-logo&nsivbblmin=114897.000&et=20.085&cfps=15.399422521655438&playerw=640&el=detailpage&st=9.985&screenw=1440&nsiabblc=86&vtmp=1&plid=AAS8yG9vr5i2MlpC&screenh=900&len=62.533&hbd=4591567&referrer=None&nsivbblmean=136114.849&hl=en_US&nsivbblmax=159946.000&nsiabblmin=52933.000&nsivbblc=86&playerh=390&rt=44.996&bc=3428802&lact=9217329&scoville=1&cr=IE&sdetail=f%3Ag-logo%2C&vq=auto&md=1&fmt=34&rendering=accelerated&mos=0&csipt=watch5ad&ns=yt&decoding=accelerated&fs=0&ptk=TheInternetVids%2Buser&vid=mAx8TRKJE1yaP6DBCWOGlIiFYeaqvejMC&nsiabblmax=57643.000
+Caching: http://s.youtube.com/s?hbt=64.329&volume=100&h=360&sendtmp=1&fexp=912602,909707,905270,912111&w=640&docid=n_oJj0K5vMc&nsiabblmean=56135.326&sd=B4A7D6121HH1333468959169143&feature=g-logo&nsivbblmin=114897.000&et=20.085&cfps=15.399422521655438&playerw=640&el=detailpage&st=9.985&screenw=1440&nsiabblc=86&vtmp=1&plid=AAS8yG9vr5i2MlpC&screenh=900&len=62.533&hbd=4591567&referrer=None&nsivbblmean=136114.849&hl=en_US&nsivbblmax=159946.000&nsiabblmin=52933.000&nsivbblc=86&playerh=390&rt=44.996&bc=3428802&lact=9217329&scoville=1&cr=IE&sdetail=f%3Ag-logo%2C&vq=auto&md=1&fmt=34&rendering=accelerated&mos=0&csipt=watch5ad&ns=yt&decoding=accelerated&fs=0&ptk=TheInternetVids%2Buser&vid=mAx8TRKJE1yaP6DBCWOGlIiFYeaqvejMC&nsiabblmax=57643.000
+Sent all of http://s.youtube.com/s?hbt=64.329&volume=100&h=360&sendtmp=1&fexp=912602,909707,905270,912111&w=640&docid=n_oJj0K5vMc&nsiabblmean=56135.326&sd=B4A7D6121HH1333468959169143&feature=g-logo&nsivbblmin=114897.000&et=20.085&cfps=15.399422521655438&playerw=640&el=detailpage&st=9.985&screenw=1440&nsiabblc=86&vtmp=1&plid=AAS8yG9vr5i2MlpC&screenh=900&len=62.533&hbd=4591567&referrer=None&nsivbblmean=136114.849&hl=en_US&nsivbblmax=159946.000&nsiabblmin=52933.000&nsivbblc=86&playerh=390&rt=44.996&bc=3428802&lact=9217329&scoville=1&cr=IE&sdetail=f%3Ag-logo%2C&vq=auto&md=1&fmt=34&rendering=accelerated&mos=0&csipt=watch5ad&ns=yt&decoding=accelerated&fs=0&ptk=TheInternetVids%2Buser&vid=mAx8TRKJE1yaP6DBCWOGlIiFYeaqvejMC&nsiabblmax=57643.000
+REQUESTING: http://s.ytimg.com/yt/swfbin/endscreen-vflBa9Frq.swf
+Caching: http://s.ytimg.com/yt/swfbin/endscreen-vflBa9Frq.swf
+Sent all of http://s.ytimg.com/yt/swfbin/endscreen-vflBa9Frq.swf
+REQUESTING: http://i2.ytimg.com/crossdomain.xml
+REQUESTING: http://i4.ytimg.com/crossdomain.xml
+REQUESTING: http://i1.ytimg.com/crossdomain.xml
+Caching: http://i2.ytimg.com/crossdomain.xml
+Sent all of http://i2.ytimg.com/crossdomain.xml
+Caching: http://i4.ytimg.com/crossdomain.xml
+Caching: http://i1.ytimg.com/crossdomain.xml
+Sent all of http://i4.ytimg.com/crossdomain.xml
+Sent all of http://i1.ytimg.com/crossdomain.xml
+REQUESTING: http://i2.ytimg.com/vi/YXh9RQCvxmg/hqdefault.jpg
+REQUESTING: http://i2.ytimg.com/vi/EptcfnrwM1g/default.jpg
+REQUESTING: http://i2.ytimg.com/vi/QRCabEldrhU/default.jpg
+REQUESTING: http://i4.ytimg.com/vi/sE2t4S_ufKc/hqdefault.jpg
+REQUESTING: http://i4.ytimg.com/vi/7FI0GXgp34k/default.jpg
+Serving up cached request of: http://i4.ytimg.com/vi/7FI0GXgp34k/default.jpg
+Sent all of http://i4.ytimg.com/vi/7FI0GXgp34k/default.jpg
+REQUESTING: http://i4.ytimg.com/vi/cuQbLF8PLWQ/default.jpg
+Serving up cached request of: http://i4.ytimg.com/vi/cuQbLF8PLWQ/default.jpg
+Sent all of http://i4.ytimg.com/vi/cuQbLF8PLWQ/default.jpg
+REQUESTING: http://i4.ytimg.com/vi/ow2AEWh9IMo/default.jpg
+Serving up cached request of: http://i4.ytimg.com/vi/ow2AEWh9IMo/default.jpg
+Sent all of http://i4.ytimg.com/vi/ow2AEWh9IMo/default.jpg
+Caching: http://i2.ytimg.com/vi/EptcfnrwM1g/default.jpg
+Sent all of http://i2.ytimg.com/vi/EptcfnrwM1g/default.jpg
+REQUESTING: http://i4.ytimg.com/vi/skoHVXrWyc8/default.jpg
+REQUESTING: http://i4.ytimg.com/vi/k3BTCgyQbFw/default.jpg
+REQUESTING: http://i1.ytimg.com/vi/p36eHu2cPjw/hqdefault.jpg
+Caching: http://i2.ytimg.com/vi/QRCabEldrhU/default.jpg
+REQUESTING: http://i1.ytimg.com/vi/T3-PKVKdBhc/default.jpg
+Serving up cached request of: http://i1.ytimg.com/vi/T3-PKVKdBhc/default.jpg
+Sent all of http://i2.ytimg.com/vi/QRCabEldrhU/default.jpg
+REQUESTING: http://i1.ytimg.com/vi/4fSZwLr7kLQ/default.jpg
+Sent all of http://i1.ytimg.com/vi/T3-PKVKdBhc/default.jpg
+Caching: http://i4.ytimg.com/vi/sE2t4S_ufKc/hqdefault.jpg
+Sent all of http://i4.ytimg.com/vi/sE2t4S_ufKc/hqdefault.jpg
+Caching: http://i4.ytimg.com/vi/k3BTCgyQbFw/default.jpg
+Sent all of http://i4.ytimg.com/vi/k3BTCgyQbFw/default.jpg
+Caching: http://i1.ytimg.com/vi/4fSZwLr7kLQ/default.jpg
+Sent all of http://i1.ytimg.com/vi/4fSZwLr7kLQ/default.jpg
+Caching: http://i2.ytimg.com/vi/YXh9RQCvxmg/hqdefault.jpg
+Sent all of http://i2.ytimg.com/vi/YXh9RQCvxmg/hqdefault.jpg
+Caching: http://i4.ytimg.com/vi/skoHVXrWyc8/default.jpg
+Sent all of http://i4.ytimg.com/vi/skoHVXrWyc8/default.jpg
+Caching: http://i1.ytimg.com/vi/p36eHu2cPjw/hqdefault.jpg
+Sent all of http://i1.ytimg.com/vi/p36eHu2cPjw/hqdefault.jpg
+REQUESTING: http://s.youtube.com/s?nsivbblmean=135580.819&nsivbblmax=209583.000&volume=100&h=360&sendtmp=1&fexp=912602,909707,905270,912111&w=640&docid=n_oJj0K5vMc&sd=B4A7D6121HH1333468959169143&feature=g-logo&et=60.163&cfps=15.151515151515152&playerw=640&el=detailpage&st=20.085&screenw=1440&nsiabblmin=24219.000&nsiabblmean=40412.764&plid=AAS8yG9vr5i2MlpC&screenh=900&len=62.533&nsiabblmax=52283.000&referrer=None&nsivbblmin=55706.000&hl=en_US&vtmp=1&hbt=64.329&ns=yt&playerh=390&rt=85.144&bc=3428802&lact=9257477&scoville=1&cr=IE&sdetail=f%3Ag-logo%2C&vq=auto&md=1&fmt=34&rendering=accelerated&mos=0&csipt=watch5ad&nsiabblc=331&decoding=accelerated&fs=0&hbd=4591567&ptk=TheInternetVids%2Buser&vid=mAx8TRKJE1yaP6DBCWOGlIiFYeaqvejMC&nsivbblc=331
+Caching: http://s.youtube.com/s?nsivbblmean=135580.819&nsivbblmax=209583.000&volume=100&h=360&sendtmp=1&fexp=912602,909707,905270,912111&w=640&docid=n_oJj0K5vMc&sd=B4A7D6121HH1333468959169143&feature=g-logo&et=60.163&cfps=15.151515151515152&playerw=640&el=detailpage&st=20.085&screenw=1440&nsiabblmin=24219.000&nsiabblmean=40412.764&plid=AAS8yG9vr5i2MlpC&screenh=900&len=62.533&nsiabblmax=52283.000&referrer=None&nsivbblmin=55706.000&hl=en_US&vtmp=1&hbt=64.329&ns=yt&playerh=390&rt=85.144&bc=3428802&lact=9257477&scoville=1&cr=IE&sdetail=f%3Ag-logo%2C&vq=auto&md=1&fmt=34&rendering=accelerated&mos=0&csipt=watch5ad&nsiabblc=331&decoding=accelerated&fs=0&hbd=4591567&ptk=TheInternetVids%2Buser&vid=mAx8TRKJE1yaP6DBCWOGlIiFYeaqvejMC&nsivbblc=331
+Sent all of http://s.youtube.com/s?nsivbblmean=135580.819&nsivbblmax=209583.000&volume=100&h=360&sendtmp=1&fexp=912602,909707,905270,912111&w=640&docid=n_oJj0K5vMc&sd=B4A7D6121HH1333468959169143&feature=g-logo&et=60.163&cfps=15.151515151515152&playerw=640&el=detailpage&st=20.085&screenw=1440&nsiabblmin=24219.000&nsiabblmean=40412.764&plid=AAS8yG9vr5i2MlpC&screenh=900&len=62.533&nsiabblmax=52283.000&referrer=None&nsivbblmin=55706.000&hl=en_US&vtmp=1&hbt=64.329&ns=yt&playerh=390&rt=85.144&bc=3428802&lact=9257477&scoville=1&cr=IE&sdetail=f%3Ag-logo%2C&vq=auto&md=1&fmt=34&rendering=accelerated&mos=0&csipt=watch5ad&nsiabblc=331&decoding=accelerated&fs=0&hbd=4591567&ptk=TheInternetVids%2Buser&vid=mAx8TRKJE1yaP6DBCWOGlIiFYeaqvejMC&nsivbblc=331
+REQUESTING: http://www.youtube.com/live_comments?action_get_comments=1&video_id=n_oJj0K5vMc&lt=1333468982&format=html&nnc=1&pd=60000&rc=2&dst=0&lch=782&ps=0&pvd=62.533&pct=62.533&scr=false
+Caching: http://www.youtube.com/live_comments?action_get_comments=1&video_id=n_oJj0K5vMc&lt=1333468982&format=html&nnc=1&pd=60000&rc=2&dst=0&lch=782&ps=0&pvd=62.533&pct=62.533&scr=false
+Sent all of http://www.youtube.com/live_comments?action_get_comments=1&video_id=n_oJj0K5vMc&lt=1333468982&format=html&nnc=1&pd=60000&rc=2&dst=0&lch=782&ps=0&pvd=62.533&pct=62.533&scr=false
+REQUESTING: http://www.youtube.com/watch?v=YXh9RQCvxmg&feature=related
+Caching: http://www.youtube.com/watch?v=YXh9RQCvxmg&feature=related
+Sent all of http://www.youtube.com/watch?v=YXh9RQCvxmg&feature=related
+REQUESTING: http://s.ytimg.com/yt/cssbin/www-refresh-vflKd4-LX.css
+REQUESTING: http://s.ytimg.com/yt/jsbin/www-core-vflG8ahJ1.js
+Serving up cached request of: http://s.ytimg.com/yt/cssbin/www-refresh-vflKd4-LX.css
+Serving up cached request of: http://s.ytimg.com/yt/jsbin/www-core-vflG8ahJ1.js
+Sent all of http://s.ytimg.com/yt/cssbin/www-refresh-vflKd4-LX.css
+Sent all of http://s.ytimg.com/yt/jsbin/www-core-vflG8ahJ1.js
+REQUESTING: http://o-o.preferred.dub06s01.v9.lscache6.c.youtube.com/generate_204?upn=MTcwMjQyNjMzMzkyOTQwMTY5Mjk&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&fexp=904532%2C919700%2C911108&algorithm=throttle-factor&itag=34&ip=134.0.0.0&burst=40&sver=3&signature=42B8E4CDFF57C624EA5339E4EA9147003BC16B75.40B0AD493461091CCEE086C28DAA992D510DF1B9&source=youtube&expire=1333492897&key=yt1&ipbits=8&factor=1.25&cp=U0hSSFRUUF9OUUNOMl9MTlRJOjJwc3RJVFBxWjRY&id=61787d4500afc668
+Caching: http://o-o.preferred.dub06s01.v9.lscache6.c.youtube.com/generate_204?upn=MTcwMjQyNjMzMzkyOTQwMTY5Mjk&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&fexp=904532%2C919700%2C911108&algorithm=throttle-factor&itag=34&ip=134.0.0.0&burst=40&sver=3&signature=42B8E4CDFF57C624EA5339E4EA9147003BC16B75.40B0AD493461091CCEE086C28DAA992D510DF1B9&source=youtube&expire=1333492897&key=yt1&ipbits=8&factor=1.25&cp=U0hSSFRUUF9OUUNOMl9MTlRJOjJwc3RJVFBxWjRY&id=61787d4500afc668
+Sent all of http://o-o.preferred.dub06s01.v9.lscache6.c.youtube.com/generate_204?upn=MTcwMjQyNjMzMzkyOTQwMTY5Mjk&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&fexp=904532%2C919700%2C911108&algorithm=throttle-factor&itag=34&ip=134.0.0.0&burst=40&sver=3&signature=42B8E4CDFF57C624EA5339E4EA9147003BC16B75.40B0AD493461091CCEE086C28DAA992D510DF1B9&source=youtube&expire=1333492897&key=yt1&ipbits=8&factor=1.25&cp=U0hSSFRUUF9OUUNOMl9MTlRJOjJwc3RJVFBxWjRY&id=61787d4500afc668
+REQUESTING: http://s.ytimg.com/yt/imgbin/www-refreshbg-vflC3wnbM.png
+Serving up cached request of: http://s.ytimg.com/yt/imgbin/www-refreshbg-vflC3wnbM.png
+Sent all of http://s.ytimg.com/yt/imgbin/www-refreshbg-vflC3wnbM.png
+REQUESTING: http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif
+Serving up cached request of: http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif
+Sent all of http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif
+REQUESTING: http://s.ytimg.com/yt/imgbin/www-refresh-vflmpZ5kj.png
+Serving up cached request of: http://s.ytimg.com/yt/imgbin/www-refresh-vflmpZ5kj.png
+Sent all of http://s.ytimg.com/yt/imgbin/www-refresh-vflmpZ5kj.png
+REQUESTING: http://s.ytimg.com/yt/img/flintstone/watch_later-vflEXZP3O.png
+Serving up cached request of: http://s.ytimg.com/yt/img/flintstone/watch_later-vflEXZP3O.png
+Sent all of http://s.ytimg.com/yt/img/flintstone/watch_later-vflEXZP3O.png
+REQUESTING: http://s.ytimg.com/yt/swfbin/watch_as3-vflqrJwOA.swf
+Serving up cached request of: http://s.ytimg.com/yt/swfbin/watch_as3-vflqrJwOA.swf
+Sent all of http://s.ytimg.com/yt/swfbin/watch_as3-vflqrJwOA.swf
+REQUESTING: http://i2.ytimg.com/vi/mgIZrSlPuko/default.jpg
+REQUESTING: http://i1.ytimg.com/vi/xKOoTRE1HUc/default.jpg
+REQUESTING: http://i2.ytimg.com/vi/9RExQFZzHXQ/default.jpg
+REQUESTING: http://i1.ytimg.com/vi/P_Um2VdIKmA/default.jpg
+REQUESTING: http://i1.ytimg.com/vi/Ti3mtDC2fQo/default.jpg
+REQUESTING: http://i1.ytimg.com/vi/4KRZQQ_eICo/default.jpg
+REQUESTING: http://i2.ytimg.com/vi/a5dSyT50Cs8/default.jpg
+REQUESTING: http://i1.ytimg.com/vi/tFk9sGo10dY/default.jpg
+Caching: http://i2.ytimg.com/vi/mgIZrSlPuko/default.jpg
+Sent all of http://i2.ytimg.com/vi/mgIZrSlPuko/default.jpg
+REQUESTING: http://s.ytimg.com/yt/jsbin/www-searchbox-vflNi9uDu.js
+Serving up cached request of: http://s.ytimg.com/yt/jsbin/www-searchbox-vflNi9uDu.js
+Sent all of http://s.ytimg.com/yt/jsbin/www-searchbox-vflNi9uDu.js
+Caching: http://i2.ytimg.com/vi/9RExQFZzHXQ/default.jpg
+Sent all of http://i2.ytimg.com/vi/9RExQFZzHXQ/default.jpg
+Caching: http://i1.ytimg.com/vi/4KRZQQ_eICo/default.jpg
+Sent all of http://i1.ytimg.com/vi/4KRZQQ_eICo/default.jpg
+Caching: http://i1.ytimg.com/vi/xKOoTRE1HUc/default.jpg
+Sent all of http://i1.ytimg.com/vi/xKOoTRE1HUc/default.jpg
+Caching: http://i1.ytimg.com/vi/P_Um2VdIKmA/default.jpg
+Caching: http://i1.ytimg.com/vi/Ti3mtDC2fQo/default.jpg
+Sent all of http://i1.ytimg.com/vi/P_Um2VdIKmA/default.jpg
+Sent all of http://i1.ytimg.com/vi/Ti3mtDC2fQo/default.jpg
+Caching: http://i2.ytimg.com/vi/a5dSyT50Cs8/default.jpg
+Sent all of http://i2.ytimg.com/vi/a5dSyT50Cs8/default.jpg
+Caching: http://i1.ytimg.com/vi/tFk9sGo10dY/default.jpg
+Sent all of http://i1.ytimg.com/vi/tFk9sGo10dY/default.jpg
+REQUESTING: http://clients1.google.com/generate_204
+REQUESTING: http://www.gstatic.com/inputtools/images/tia.png
+Serving up cached request of: http://clients1.google.com/generate_204
+Serving up cached request of: http://www.gstatic.com/inputtools/images/tia.png
+Sent all of http://clients1.google.com/generate_204
+Sent all of http://www.gstatic.com/inputtools/images/tia.png
+REQUESTING: http://s.ytimg.com/yt/swfbin/iv3_module-vflAEcFw-.swf
+REQUESTING: http://o-o.preferred.dub06s01.v9.lscache6.c.youtube.com/videoplayback?upn=MTcwMjQyNjMzMzkyOTQwMTY5Mjk&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&fexp=904532%2C919700%2C911108&algorithm=throttle-factor&itag=34&ip=134.0.0.0&burst=40&sver=3&signature=42B8E4CDFF57C624EA5339E4EA9147003BC16B75.40B0AD493461091CCEE086C28DAA992D510DF1B9&source=youtube&expire=1333492897&key=yt1&ipbits=8&factor=1.25&cp=U0hSSFRUUF9OUUNOMl9MTlRJOjJwc3RJVFBxWjRY&id=61787d4500afc668&cm2=1
+Caching: http://s.ytimg.com/yt/swfbin/iv3_module-vflAEcFw-.swf
+Sent all of http://s.ytimg.com/yt/swfbin/iv3_module-vflAEcFw-.swf
+REQUESTING: http://www.youtube.com/crossdomain.xml
+Serving up cached request of: http://www.youtube.com/crossdomain.xml
+Sent all of http://www.youtube.com/crossdomain.xml
+REQUESTING: http://tc.v9.cache6.c.youtube.com/videoplayback?algorithm=throttle-factor&ip=134.0.0.0&ipbits=8&signature=42B8E4CDFF57C624EA5339E4EA9147003BC16B75.40B0AD493461091CCEE086C28DAA992D510DF1B9&source=youtube&cp=U0hSSFRUUF9OUUNOMl9MTlRJOjJwc3RJVFBxWjRY&key=yt1&sver=3&id=61787d4500afc668&itag=34&expire=1333492897&factor=1.25&burst=40&upn=MTcwMjQyNjMzMzkyOTQwMTY5Mjk&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&fexp=904532%2C919700%2C911108&playretry=1&cm2=1
+REQUESTING: http://s.youtube.com/crossdomain.xml
+Caching: http://s.youtube.com/crossdomain.xml
+Sent all of http://s.youtube.com/crossdomain.xml
+REQUESTING: http://www.google.ie/
+Caching: http://www.google.ie/
+Sent all of http://www.google.ie/
+REQUESTING: http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+REQUESTING: http://www.google.ie/images/srpr/logo1w.png
+REQUESTING: http://www.google.ie/images/srpr/nav_logo80.png
+Caching: http://www.google.ie/images/srpr/logo1w.png
+Sent all of http://www.google.ie/images/srpr/logo1w.png
+Caching: http://www.google.ie/images/srpr/nav_logo80.png
+Sent all of http://www.google.ie/images/srpr/nav_logo80.png
+Caching: http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+Sent all of http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+REQUESTING: http://clients1.google.ie/generate_204
+Caching: http://clients1.google.ie/generate_204
+Sent all of http://clients1.google.ie/generate_204
+REQUESTING: http://www.google.ie/csi?v=3&s=webhp&action=&e=34956,36683,36888,36934,37501,37573,37646,37676,37682,37917,37952,38000,38108&ei=BSB7T6r4FtOfhQf6n5XPAg&imc=0&imn=0&imp=0&rt=xjsls.6,prt.6,xjses.2236,xjsee.2254,xjs.2274,ol.2530,iml.6,wsrt.187,cst.0,dnst.0,rqst.-61,rspt.-146
+REQUESTING: http://www.google.ie/favicon.ico
+Caching: http://www.google.ie/csi?v=3&s=webhp&action=&e=34956,36683,36888,36934,37501,37573,37646,37676,37682,37917,37952,38000,38108&ei=BSB7T6r4FtOfhQf6n5XPAg&imc=0&imn=0&imp=0&rt=xjsls.6,prt.6,xjses.2236,xjsee.2254,xjs.2274,ol.2530,iml.6,wsrt.187,cst.0,dnst.0,rqst.-61,rspt.-146
+Sent all of http://www.google.ie/csi?v=3&s=webhp&action=&e=34956,36683,36888,36934,37501,37573,37646,37676,37682,37917,37952,38000,38108&ei=BSB7T6r4FtOfhQf6n5XPAg&imc=0&imn=0&imp=0&rt=xjsls.6,prt.6,xjses.2236,xjsee.2254,xjs.2274,ol.2530,iml.6,wsrt.187,cst.0,dnst.0,rqst.-61,rspt.-146
+Caching: http://www.google.ie/favicon.ico
+Sent all of http://www.google.ie/favicon.ico
+Clearing Cache List
+Closing Proxy Server
+Stopping Proxy Server.
+REQUESTING: http://www.google.ie/
+Caching: http://www.google.ie/
+Sent all of http://www.google.ie/
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-03 17:08:19
+Starting Proxy Server on port 1913
+Listening on port1913
+REQUESTING: http://www.google.ie/
+Serving up cached request of: http://www.google.ie/
+Sent all of http://www.google.ie/
+REQUESTING: http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+REQUESTING: http://www.google.ie/images/srpr/logo1w.png
+REQUESTING: http://www.google.ie/images/srpr/nav_logo80.png
+Caching: http://www.google.ie/images/srpr/logo1w.png
+Sent all of http://www.google.ie/images/srpr/logo1w.png
+Caching: http://www.google.ie/images/srpr/nav_logo80.png
+Sent all of http://www.google.ie/images/srpr/nav_logo80.png
+Caching: http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+Sent all of http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+REQUESTING: http://clients1.google.ie/generate_204
+Caching: http://clients1.google.ie/generate_204
+Sent all of http://clients1.google.ie/generate_204
+REQUESTING: http://www.google.ie/csi?v=3&s=webhp&action=&e=34956,36683,36888,36891,36934,37501,37518,37573,37646,37675,37682,37858,37953,38000,38108&ei=DyB7T9bZO4uHhQfDm5GOCg&imc=0&imn=0&imp=0&rt=xjsls.6,prt.7,xjses.406,xjsee.424,xjs.489,ol.508,iml.7,wsrt.60276,cst.0,dnst.0,rqst.-11,rspt.-13
+REQUESTING: http://www.google.ie/favicon.ico
+Caching: http://www.google.ie/csi?v=3&s=webhp&action=&e=34956,36683,36888,36891,36934,37501,37518,37573,37646,37675,37682,37858,37953,38000,38108&ei=DyB7T9bZO4uHhQfDm5GOCg&imc=0&imn=0&imp=0&rt=xjsls.6,prt.7,xjses.406,xjsee.424,xjs.489,ol.508,iml.7,wsrt.60276,cst.0,dnst.0,rqst.-11,rspt.-13
+Sent all of http://www.google.ie/csi?v=3&s=webhp&action=&e=34956,36683,36888,36891,36934,37501,37518,37573,37646,37675,37682,37858,37953,38000,38108&ei=DyB7T9bZO4uHhQfDm5GOCg&imc=0&imn=0&imp=0&rt=xjsls.6,prt.7,xjses.406,xjsee.424,xjs.489,ol.508,iml.7,wsrt.60276,cst.0,dnst.0,rqst.-11,rspt.-13
+Caching: http://www.google.ie/favicon.ico
+Sent all of http://www.google.ie/favicon.ico
+REQUESTING: http://www.google.ie/
+Serving up cached request of: http://www.google.ie/
+Sent all of http://www.google.ie/
+REQUESTING: http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+Serving up cached request of: http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+Sent all of http://www.google.ie/extern_js/f/CgJlbhICaWUgACswRTgALCswWjgALCswDjgALCswFzgALCswPDgALCswUTgALCswCjgAmgICaGUsKzCYATgALCswFjgALCswGTgBLCswQTgALCswTTgALCswTjgALCswVDgALCswaTgALCswkAE4ACwrMJIBOAAsKzDVATgALCsw2AE4ACwrMBg4ACwrMCY4ACyAAlCQAnA/Q4V9Cbp7fuo.js
+REQUESTING: http://www.google.ie/images/srpr/logo1w.png
+Serving up cached request of: http://www.google.ie/images/srpr/logo1w.png
+REQUESTING: http://www.google.ie/images/srpr/nav_logo80.png
+Serving up cached request of: http://www.google.ie/images/srpr/nav_logo80.png
+Sent all of http://www.google.ie/images/srpr/logo1w.png
+Sent all of http://www.google.ie/images/srpr/nav_logo80.png
+REQUESTING: http://clients1.google.ie/generate_204
+Serving up cached request of: http://clients1.google.ie/generate_204
+Sent all of http://clients1.google.ie/generate_204
+REQUESTING: http://www.google.ie/csi?v=3&s=webhp&action=&e=34956,36683,36888,36891,36934,37501,37518,37573,37646,37675,37682,37858,37953,38000,38108&ei=DyB7T9bZO4uHhQfDm5GOCg&imc=0&imn=0&imp=0&rt=xjsls.6,prt.6,xjses.46,xjsee.63,xjs.70,ol.73,iml.6,wsrt.27,cst.0,dnst.0,rqst.-12,rspt.-13
+Caching: http://www.google.ie/csi?v=3&s=webhp&action=&e=34956,36683,36888,36891,36934,37501,37518,37573,37646,37675,37682,37858,37953,38000,38108&ei=DyB7T9bZO4uHhQfDm5GOCg&imc=0&imn=0&imp=0&rt=xjsls.6,prt.6,xjses.46,xjsee.63,xjs.70,ol.73,iml.6,wsrt.27,cst.0,dnst.0,rqst.-12,rspt.-13
+Sent all of http://www.google.ie/csi?v=3&s=webhp&action=&e=34956,36683,36888,36891,36934,37501,37518,37573,37646,37675,37682,37858,37953,38000,38108&ei=DyB7T9bZO4uHhQfDm5GOCg&imc=0&imn=0&imp=0&rt=xjsls.6,prt.6,xjses.46,xjsee.63,xjs.70,ol.73,iml.6,wsrt.27,cst.0,dnst.0,rqst.-12,rspt.-13
+Viewing cached copy of http://www.google.ie/
+Clearing Cache List
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-04 17:16:54
+Program Closing
+Saving Log
+2012-04-04 17:23:36
+Program Closing
+Saving Log
+2012-04-04 17:28:11
+Starting Proxy Server on port 1913
+Listening on port1913
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-04 19:33:55
+Starting Proxy Server on port 1913
+Listening on port1913
+CONNECT request detected, ignoring
+Sent all of www.facebook.com:443
+CONNECT request detected, ignoring
+Sent all of www.facebook.com:443
+CONNECT request detected, ignoring
+Sent all of www.facebook.com:443
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-05 08:46:47
+Program Closing
+Saving Log
+2012-04-05 08:48:14
+Starting Proxy Server on port 1913
+Listening on port1913
+Requesting: http://google.ie/
+Caching: http://google.ie/
+Sent all of http://google.ie/
+Requesting: http://google.ie/images/close_sm.gif
+Requesting: http://google.ie/images/icons/product/chrome-48.png
+Requesting: http://google.ie/images/modules/buttons/g-button-chocobo-basic-1.gif
+Requesting: http://google.ie/images/modules/buttons/g-button-chocobo-basic-2.gif
+Requesting: http://google.ie/images/srpr/logo3w.png
+Requesting: http://google.ie/extern_js/f/CgJlbhICaWUrMEU4ACwrMFo4ACwrMA44ACwrMBc4ACwrMDw4ACwrMFE4ACwrMFk4ACwrMAo4ACwrMJgBOAAsKzAWOAAsKzAZOAAsKzArOAAsKzBBOAAsKzBNOAAsKzBOOAAsKzBTOAAsKzBUOAAsKzBpOAAsKzCQATgALCswkgE4ACwrMJcBOAAsKzCjATgALCswpwE4ACwrMNEBOAAsKzDVATgALCsw2AE4ACwrMHQ4ACwrMB04ACwrMFw4ACwrMBg4ACwrMCY4ACyAAmuQAnI/sZKeqOn7kKg.js
+Caching: http://google.ie/images/icons/product/chrome-48.png
+Sent all of http://google.ie/images/icons/product/chrome-48.png
+Caching: http://google.ie/images/srpr/logo3w.png
+Caching: http://google.ie/images/modules/buttons/g-button-chocobo-basic-2.gif
+Sent all of http://google.ie/images/srpr/logo3w.png
+Sent all of http://google.ie/images/modules/buttons/g-button-chocobo-basic-2.gif
+Caching: http://google.ie/images/close_sm.gif
+Sent all of http://google.ie/images/close_sm.gif
+Caching: http://google.ie/images/modules/buttons/g-button-chocobo-basic-1.gif
+Sent all of http://google.ie/images/modules/buttons/g-button-chocobo-basic-1.gif
+Caching: http://google.ie/extern_js/f/CgJlbhICaWUrMEU4ACwrMFo4ACwrMA44ACwrMBc4ACwrMDw4ACwrMFE4ACwrMFk4ACwrMAo4ACwrMJgBOAAsKzAWOAAsKzAZOAAsKzArOAAsKzBBOAAsKzBNOAAsKzBOOAAsKzBTOAAsKzBUOAAsKzBpOAAsKzCQATgALCswkgE4ACwrMJcBOAAsKzCjATgALCswpwE4ACwrMNEBOAAsKzDVATgALCsw2AE4ACwrMHQ4ACwrMB04ACwrMFw4ACwrMBg4ACwrMCY4ACyAAmuQAnI/sZKeqOn7kKg.js
+Sent all of http://google.ie/extern_js/f/CgJlbhICaWUrMEU4ACwrMFo4ACwrMA44ACwrMBc4ACwrMDw4ACwrMFE4ACwrMFk4ACwrMAo4ACwrMJgBOAAsKzAWOAAsKzAZOAAsKzArOAAsKzBBOAAsKzBNOAAsKzBOOAAsKzBTOAAsKzBUOAAsKzBpOAAsKzCQATgALCswkgE4ACwrMJcBOAAsKzCjATgALCswpwE4ACwrMNEBOAAsKzDVATgALCsw2AE4ACwrMHQ4ACwrMB04ACwrMFw4ACwrMBg4ACwrMCY4ACyAAmuQAnI/sZKeqOn7kKg.js
+Requesting: http://google.ie/extern_chrome/76c0d947fa5a4b07.js
+Requesting: http://www.google.com/textinputassistant/tia.png
+Requesting: http://google.ie/images/swxa.gif
+Caching: http://google.ie/extern_chrome/76c0d947fa5a4b07.js
+Sent all of http://google.ie/extern_chrome/76c0d947fa5a4b07.js
+Caching: http://www.google.com/textinputassistant/tia.png
+Sent all of http://www.google.com/textinputassistant/tia.png
+Caching: http://google.ie/images/swxa.gif
+Sent all of http://google.ie/images/swxa.gif
+Requesting: http://google.ie/images/nav_logo107.png
+Requesting: http://google.ie/csi?v=3&s=webhp&action=&e=34956,36683,36888,36934,37102,37344,37501,37573,37646,37682,37858,37999,38028,38112,38116,38127&ei=NU59T4jJGImFhQfCybmpDA&imc=2&imn=2&imp=0&rt=xjsls.25,prt.32,xjses.1081,xjsee.1129,xjs.1139,ol.2046,iml.32,wsrt.1279,cst.0,dnst.0,rqst.-13,rspt.-1265
+Requesting: http://ssl.gstatic.com/gb/js/sem_f425299a39d623cac0aeb32549758f70.js
+Caching: http://google.ie/csi?v=3&s=webhp&action=&e=34956,36683,36888,36934,37102,37344,37501,37573,37646,37682,37858,37999,38028,38112,38116,38127&ei=NU59T4jJGImFhQfCybmpDA&imc=2&imn=2&imp=0&rt=xjsls.25,prt.32,xjses.1081,xjsee.1129,xjs.1139,ol.2046,iml.32,wsrt.1279,cst.0,dnst.0,rqst.-13,rspt.-1265
+Sent all of http://google.ie/csi?v=3&s=webhp&action=&e=34956,36683,36888,36934,37102,37344,37501,37573,37646,37682,37858,37999,38028,38112,38116,38127&ei=NU59T4jJGImFhQfCybmpDA&imc=2&imn=2&imp=0&rt=xjsls.25,prt.32,xjses.1081,xjsee.1129,xjs.1139,ol.2046,iml.32,wsrt.1279,cst.0,dnst.0,rqst.-13,rspt.-1265
+Caching: http://ssl.gstatic.com/gb/js/sem_f425299a39d623cac0aeb32549758f70.js
+Sent all of http://ssl.gstatic.com/gb/js/sem_f425299a39d623cac0aeb32549758f70.js
+Caching: http://google.ie/images/nav_logo107.png
+Sent all of http://google.ie/images/nav_logo107.png
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-05 08:48:57
+Clearing Log
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-05 08:51:12
+Clearing Log
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-05 08:51:21
+Clearing Cache List
+Program Closing
+Saving Log
+2012-04-05 08:54:36
+Starting Proxy Server on port 1913
+Listening on port1913
+CONNECT request detected, ignoring
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-05 08:56:21
+Starting Proxy Server on port 1913
+Listening on port1913
+CONNECT request detected, ignoring
+Clearing Proxy Details
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-05 09:01:25
+Starting Proxy Server on port 1913
+Listening on port1913
+Attempting to process CONNECT request
+Requesting: www.facebook.com:443
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-05 09:01:58
+Starting Proxy Server on port 1913
+Listening on port1913
+Attempting to process CONNECT request
+Requesting: www.facebook.com:443
+Attempting to process CONNECT request
+Requesting: www.facebook.com:443
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-05 09:09:53
+Starting Proxy Server on port 1913
+Listening on port1913
+CONNECT request detected, passing.
+Sent all of www.facebook.com:443
+CONNECT request detected, passing.
+Sent all of www.facebook.com:443
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-05 09:10:27
+Clearing Log
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-05 09:15:33
+Starting Proxy Server on port 1913
+Listening on port1913
+Requesting: http://www.google.ie/
+Caching: http://www.google.ie/
+Sent all of http://www.google.ie/
+Requesting: http://www.google.ie/images/close_sm.gif
+Requesting: http://www.google.ie/images/icons/product/chrome-48.png
+Requesting: http://www.google.ie/images/modules/buttons/g-button-chocobo-basic-1.gif
+Requesting: http://www.google.ie/images/modules/buttons/g-button-chocobo-basic-2.gif
+Requesting: http://www.google.ie/images/srpr/logo3w.png
+Requesting: http://www.google.ie/extern_js/f/CgJlbhICaWUrMEU4ACwrMFo4ACwrMA44ACwrMBc4ACwrMDw4ACwrMFE4ACwrMFk4ACwrMAo4ACwrMJgBOAAsKzAWOAAsKzAZOAAsKzArOAAsKzBBOAAsKzBNOAAsKzBOOAAsKzBTOAAsKzBUOAAsKzBpOAAsKzCQATgALCswkgE4ACwrMJcBOAAsKzCjATgALCswpwE4ACwrMNEBOAAsKzDVATgALCsw2AE4ACwrMHQ4ACwrMB04ACwrMFw4ACwrMBg4ACwrMCY4ACyAAmuQAnI/sZKeqOn7kKg.js
+Caching: http://www.google.ie/images/icons/product/chrome-48.png
+Sent all of http://www.google.ie/images/icons/product/chrome-48.png
+Caching: http://www.google.ie/images/srpr/logo3w.png
+Sent all of http://www.google.ie/images/srpr/logo3w.png
+Caching: http://www.google.ie/images/close_sm.gif
+Caching: http://www.google.ie/images/modules/buttons/g-button-chocobo-basic-2.gif
+Sent all of http://www.google.ie/images/close_sm.gif
+Sent all of http://www.google.ie/images/modules/buttons/g-button-chocobo-basic-2.gif
+Caching: http://www.google.ie/images/modules/buttons/g-button-chocobo-basic-1.gif
+Sent all of http://www.google.ie/images/modules/buttons/g-button-chocobo-basic-1.gif
+Caching: http://www.google.ie/extern_js/f/CgJlbhICaWUrMEU4ACwrMFo4ACwrMA44ACwrMBc4ACwrMDw4ACwrMFE4ACwrMFk4ACwrMAo4ACwrMJgBOAAsKzAWOAAsKzAZOAAsKzArOAAsKzBBOAAsKzBNOAAsKzBOOAAsKzBTOAAsKzBUOAAsKzBpOAAsKzCQATgALCswkgE4ACwrMJcBOAAsKzCjATgALCswpwE4ACwrMNEBOAAsKzDVATgALCsw2AE4ACwrMHQ4ACwrMB04ACwrMFw4ACwrMBg4ACwrMCY4ACyAAmuQAnI/sZKeqOn7kKg.js
+Sent all of http://www.google.ie/extern_js/f/CgJlbhICaWUrMEU4ACwrMFo4ACwrMA44ACwrMBc4ACwrMDw4ACwrMFE4ACwrMFk4ACwrMAo4ACwrMJgBOAAsKzAWOAAsKzAZOAAsKzArOAAsKzBBOAAsKzBNOAAsKzBOOAAsKzBTOAAsKzBUOAAsKzBpOAAsKzCQATgALCswkgE4ACwrMJcBOAAsKzCjATgALCswpwE4ACwrMNEBOAAsKzDVATgALCsw2AE4ACwrMHQ4ACwrMB04ACwrMFw4ACwrMBg4ACwrMCY4ACyAAmuQAnI/sZKeqOn7kKg.js
+Requesting: http://www.google.ie/extern_chrome/76c0d947fa5a4b07.js
+Requesting: http://www.google.com/textinputassistant/tia.png
+Requesting: http://www.google.ie/images/swxa.gif
+Caching: http://www.google.ie/extern_chrome/76c0d947fa5a4b07.js
+Sent all of http://www.google.ie/extern_chrome/76c0d947fa5a4b07.js
+Caching: http://www.google.com/textinputassistant/tia.png
+Sent all of http://www.google.com/textinputassistant/tia.png
+Caching: http://www.google.ie/images/swxa.gif
+Sent all of http://www.google.ie/images/swxa.gif
+Requesting: http://www.google.ie/images/nav_logo107.png
+Requesting: http://www.google.ie/csi?v=3&s=webhp&action=&e=34956,36683,36888,36934,37102,37344,37501,37573,37646,37682,37858,38113,38117,38128&ei=kVR9T8yLHNC6hAfpzMCEBQ&imc=2&imn=2&imp=2&rt=xjsls.27,prt.34,xjses.697,xjsee.754,xjs.762,ol.1195,iml.97,wsrt.5808,cst.0,dnst.0,rqst.-12,rspt.-566
+Requesting: http://www.google.ie/favicon.ico
+Requesting: http://ssl.gstatic.com/gb/js/sem_f425299a39d623cac0aeb32549758f70.js
+Caching: http://www.google.ie/csi?v=3&s=webhp&action=&e=34956,36683,36888,36934,37102,37344,37501,37573,37646,37682,37858,38113,38117,38128&ei=kVR9T8yLHNC6hAfpzMCEBQ&imc=2&imn=2&imp=2&rt=xjsls.27,prt.34,xjses.697,xjsee.754,xjs.762,ol.1195,iml.97,wsrt.5808,cst.0,dnst.0,rqst.-12,rspt.-566
+Caching: http://www.google.ie/favicon.ico
+Sent all of http://www.google.ie/csi?v=3&s=webhp&action=&e=34956,36683,36888,36934,37102,37344,37501,37573,37646,37682,37858,38113,38117,38128&ei=kVR9T8yLHNC6hAfpzMCEBQ&imc=2&imn=2&imp=2&rt=xjsls.27,prt.34,xjses.697,xjsee.754,xjs.762,ol.1195,iml.97,wsrt.5808,cst.0,dnst.0,rqst.-12,rspt.-566
+Sent all of http://www.google.ie/favicon.ico
+Caching: http://www.google.ie/images/nav_logo107.png
+Sent all of http://www.google.ie/images/nav_logo107.png
+Caching: http://ssl.gstatic.com/gb/js/sem_f425299a39d623cac0aeb32549758f70.js
+Sent all of http://ssl.gstatic.com/gb/js/sem_f425299a39d623cac0aeb32549758f70.js
+Closing Proxy Server
+Stopping Proxy Server.
+Requesting: http://www.google.ie/
+Serving up cached request of: http://www.google.ie/
+Sent all of http://www.google.ie/
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-05 10:28:28
+Starting Proxy Server on port 1913
+Listening on port1913
+Requesting: http://www.boards.ie/vbulletin/forumdisplay.php?f=468
+Caching: http://www.boards.ie/vbulletin/forumdisplay.php?f=468
+Sent all of http://www.boards.ie/vbulletin/forumdisplay.php?f=468
+Requesting: http://b-static.net/vbulletin/clientscript/vbulletin_important.css?v=387
+Requesting: http://b-static.net/css/follow.css?v=1
+Requesting: http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+Requesting: http://b-static.net/javascript/follow.js?v=3
+Requesting: http://b-static.net/t/css/jquery-ui-1.7.3.custom.css
+Requesting: http://b-static.net/t//js/jquery-ui-1.7.3.custom.min.js
+Requesting: http://b-static.net/t//js/modutils_dialog.js
+Requesting: http://www.boards.ie/javascript/gold.js?v=1
+Caching: http://b-static.net/vbulletin/clientscript/vbulletin_important.css?v=387
+Sent all of http://b-static.net/vbulletin/clientscript/vbulletin_important.css?v=387
+Requesting: http://b-static.net/vbulletin/clientscript/yui/yahoo-dom-event/yahoo-dom-event.js?v=387
+Caching: http://b-static.net/css/follow.css?v=1
+Sent all of http://b-static.net/css/follow.css?v=1
+Requesting: http://b-static.net/vbulletin/clientscript/yui/connection/connection-min.js?v=387
+Caching: http://b-static.net/t//js/modutils_dialog.js
+Sent all of http://b-static.net/t//js/modutils_dialog.js
+Requesting: http://b-static.net/vbulletin/clientscript/vbulletin_global.js?v=3871
+Caching: http://www.boards.ie/javascript/gold.js?v=1
+Sent all of http://www.boards.ie/javascript/gold.js?v=1
+Requesting: http://b-static.net/vbulletin/clientscript/vbulletin_menu.js?v=387
+Caching: http://b-static.net/javascript/follow.js?v=3
+Sent all of http://b-static.net/javascript/follow.js?v=3
+Requesting: http://b-static.net/javascript/milonic_src.js?v=1215700069
+Caching: http://b-static.net/vbulletin/clientscript/yui/connection/connection-min.js?v=387
+Sent all of http://b-static.net/vbulletin/clientscript/yui/connection/connection-min.js?v=387
+Requesting: http://b-static.net/javascript/mmenudom.js?v=1215700069
+Caching: http://b-static.net/javascript/milonic_src.js?v=1215700069
+Sent all of http://b-static.net/javascript/milonic_src.js?v=1215700069
+Requesting: http://b-static.net/javascript/dhtmlmenu.js?v=1333583749
+Caching: http://b-static.net/vbulletin/clientscript/vbulletin_menu.js?v=387
+Sent all of http://b-static.net/vbulletin/clientscript/vbulletin_menu.js?v=387
+Requesting: http://b-static.net/vbulletin/clientscript/vbulletin_md5.js?v=387
+Caching: http://b-static.net/t/css/jquery-ui-1.7.3.custom.css
+Sent all of http://b-static.net/t/css/jquery-ui-1.7.3.custom.css
+Requesting: http://b-static.net/vbulletin/clientscript/vbulletin_read_marker.js?v=387
+Caching: http://b-static.net/vbulletin/clientscript/vbulletin_read_marker.js?v=387
+Sent all of http://b-static.net/vbulletin/clientscript/vbulletin_read_marker.js?v=387
+Requesting: http://www.google-analytics.com/ga.js
+Caching: http://b-static.net/vbulletin/clientscript/vbulletin_md5.js?v=387
+Sent all of http://b-static.net/vbulletin/clientscript/vbulletin_md5.js?v=387
+Requesting: http://b-static.net/javascript/t_vbnav.js?v=9
+Caching: http://b-static.net/vbulletin/clientscript/vbulletin_global.js?v=3871
+Sent all of http://b-static.net/vbulletin/clientscript/vbulletin_global.js?v=3871
+Caching: http://b-static.net/vbulletin/clientscript/yui/yahoo-dom-event/yahoo-dom-event.js?v=387
+Sent all of http://b-static.net/vbulletin/clientscript/yui/yahoo-dom-event/yahoo-dom-event.js?v=387
+Caching: http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+Sent all of http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+Caching: http://b-static.net/javascript/t_vbnav.js?v=9
+Sent all of http://b-static.net/javascript/t_vbnav.js?v=9
+Caching: http://b-static.net/javascript/mmenudom.js?v=1215700069
+Sent all of http://b-static.net/javascript/mmenudom.js?v=1215700069
+Requesting: http://t.bmmetrix.com/ie/boards_ie/bmv13.js
+Requesting: http://b-static.net/vbulletin/images/misc/vbulletin3_logo_white_2.gif
+Requesting: http://b-static.net/vbulletin/images/misc/navbits_start.gif
+Requesting: http://b-static.net/vbulletin/images/misc/navbits_finallink_ltr.gif
+Requesting: http://b-static.net/vbulletin/images/buttons/newthread.gif
+Caching: http://b-static.net/t//js/jquery-ui-1.7.3.custom.min.js
+Sent all of http://b-static.net/t//js/jquery-ui-1.7.3.custom.min.js
+Requesting: http://b-static.net/vbulletin/images/buttons/sortasc.gif
+Caching: http://b-static.net/vbulletin/images/misc/navbits_finallink_ltr.gif
+Caching: http://b-static.net/vbulletin/images/buttons/newthread.gif
+Sent all of http://b-static.net/vbulletin/images/misc/navbits_finallink_ltr.gif
+Sent all of http://b-static.net/vbulletin/images/buttons/newthread.gif
+Caching: http://t.bmmetrix.com/ie/boards_ie/bmv13.js
+Requesting: http://b-static.net/vbulletin/images/statusicon/thread_hot.gif
+Requesting: http://b-static.net/vbulletin/images/misc/sticky.gif
+Sent all of http://t.bmmetrix.com/ie/boards_ie/bmv13.js
+Requesting: http://b-static.net/vbulletin/images/misc/multipage.gif
+Caching: http://b-static.net/vbulletin/images/misc/navbits_start.gif
+Sent all of http://b-static.net/vbulletin/images/misc/navbits_start.gif
+Requesting: http://b-static.net/vbulletin/images/buttons/lastpost.gif
+Caching: http://b-static.net/vbulletin/images/misc/vbulletin3_logo_white_2.gif
+Sent all of http://b-static.net/vbulletin/images/misc/vbulletin3_logo_white_2.gif
+Requesting: http://b-static.net/vbulletin/images/statusicon/thread_hot_lock.gif
+Caching: http://b-static.net/vbulletin/images/buttons/sortasc.gif
+Sent all of http://b-static.net/vbulletin/images/buttons/sortasc.gif
+Requesting: http://b-static.net/vbulletin/images/icons/icon5.gif
+Caching: http://b-static.net/vbulletin/images/misc/sticky.gif
+Sent all of http://b-static.net/vbulletin/images/misc/sticky.gif
+Requesting: http://b-static.net/vbulletin/images/misc/paperclip.gif
+Caching: http://b-static.net/vbulletin/images/statusicon/thread_hot.gif
+Sent all of http://b-static.net/vbulletin/images/statusicon/thread_hot.gif
+Requesting: http://b-static.net/vbulletin/images/rating/rating_4.gif
+Caching: http://b-static.net/vbulletin/images/misc/multipage.gif
+Caching: http://www.google-analytics.com/ga.js
+Sent all of http://b-static.net/vbulletin/images/misc/multipage.gif
+Sent all of http://www.google-analytics.com/ga.js
+Requesting: http://b-static.net/vbulletin/images/statusicon/thread.gif
+Requesting: http://b-static.net/vbulletin/images/misc/tag.png
+Caching: http://b-static.net/vbulletin/images/buttons/lastpost.gif
+Sent all of http://b-static.net/vbulletin/images/buttons/lastpost.gif
+Requesting: http://b-static.net/vbulletin/images/rating/rating_3.gif
+Caching: http://b-static.net/vbulletin/images/statusicon/thread_hot_lock.gif
+Sent all of http://b-static.net/vbulletin/images/statusicon/thread_hot_lock.gif
+Requesting: http://b-static.net/vbulletin/images/statusicon/thread_new.gif
+Caching: http://b-static.net/vbulletin/images/icons/icon5.gif
+Sent all of http://b-static.net/vbulletin/images/icons/icon5.gif
+Requesting: http://b-static.net/vbulletin/images/statusicon/thread_hot_new.gif
+Caching: http://b-static.net/vbulletin/images/misc/paperclip.gif
+Sent all of http://b-static.net/vbulletin/images/misc/paperclip.gif
+Requesting: http://b-static.net/vbulletin/images/statusicon/thread_lock.gif
+Closing Proxy Server
+Caching: http://b-static.net/vbulletin/images/rating/rating_4.gif
+Sent all of http://b-static.net/vbulletin/images/rating/rating_4.gif
+Caching: http://b-static.net/vbulletin/images/statusicon/thread.gif
+Sent all of http://b-static.net/vbulletin/images/statusicon/thread.gif
+Caching: http://b-static.net/vbulletin/images/misc/tag.png
+Sent all of http://b-static.net/vbulletin/images/misc/tag.png
+Caching: http://b-static.net/vbulletin/images/rating/rating_3.gif
+Sent all of http://b-static.net/vbulletin/images/rating/rating_3.gif
+Caching: http://b-static.net/vbulletin/images/statusicon/thread_new.gif
+Sent all of http://b-static.net/vbulletin/images/statusicon/thread_new.gif
+Requesting: http://b-static.net/vbulletin/images/buttons/collapse_thead.gif
+Caching: http://b-static.net/vbulletin/images/statusicon/thread_hot_new.gif
+Sent all of http://b-static.net/vbulletin/images/statusicon/thread_hot_new.gif
+Caching: http://b-static.net/vbulletin/images/statusicon/thread_lock.gif
+Sent all of http://b-static.net/vbulletin/images/statusicon/thread_lock.gif
+Caching: http://b-static.net/vbulletin/images/buttons/collapse_thead.gif
+Sent all of http://b-static.net/vbulletin/images/buttons/collapse_thead.gif
+Caching: http://b-static.net/javascript/dhtmlmenu.js?v=1333583749
+Stopping Proxy Server.
+Sent all of http://b-static.net/javascript/dhtmlmenu.js?v=1333583749
+Program Closing
+Saving Log
+2012-04-05 10:30:22
+Starting Proxy Server on port 1913
+Listening on port1913
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-05 12:32:31
+Program Closing
+Saving Log
+2012-04-05 12:40:05
+Clearing Log
+Clearing Cache List
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-05 12:40:56
+Starting Proxy Server on port 1913
+Listening on port1913
+Requesting: http://www.google.ie/
+Serving up cached request of: http://www.google.ie/
+Clearing Cache List
+Clearing Cache List
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-05 12:42:25
+Clearing Log
+Clearing Cache List
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Saving Log
+2012-04-05 12:47:09
+Starting Proxy Server on port 1913
+Listening on port1913
+Requesting: http://www.coffee-coders.com/
+Caching: http://www.coffee-coders.com/
+Sent all of http://www.coffee-coders.com/
+Requesting: http://www.coffee-coders.com/cc.css
+Requesting: http://dl.dropbox.com/u/31563349/Resized%20coffee%20coders.png
+Caching: http://www.coffee-coders.com/cc.css
+Sent all of http://www.coffee-coders.com/cc.css
+Caching: http://dl.dropbox.com/u/31563349/Resized%20coffee%20coders.png
+Sent all of http://dl.dropbox.com/u/31563349/Resized%20coffee%20coders.png
+Requesting: http://www.coffee-coders.com/favicon.ico
+Requesting: http://www.coffee-coders.com/favicon.ico
+Unable to fulfil request. Error code404
+Sent all of http://www.coffee-coders.com/favicon.ico
+Unable to fulfil request. Error code404
+Sent all of http://www.coffee-coders.com/favicon.ico
+Closing Proxy Server
+Stopping Proxy Server.
+Program Closing
+Saving Log
+2012-04-05 12:49:43
+Clearing Log
+Program Closing
+Saving Log
+2012-04-05 12:59:42
+Starting Proxy Server on port 1913
+Listening on port1913
+Requesting: http://random.org/graphics/tab_rounded.gif
+Caching: http://random.org/graphics/tab_rounded.gif
+Sent all of http://random.org/graphics/tab_rounded.gif
+Clearing Proxy Details
+Proxy Username and password saved
+Blocking 124.226.36.91
+Removing 124.226.36.91
+Blocking 134.226.83.27
+Requesting: http://spoon.netsoc.tcd.ie/
+Caching: http://spoon.netsoc.tcd.ie/
+Sent all of http://spoon.netsoc.tcd.ie/
+Requesting: http://spoon.netsoc.tcd.ie/nat.png
+Attempted to access Blacklisted site: www.netsoc.tcd.ie at IP 134.226.83.27
+Attempted to access Blacklisted site: www.netsoc.tcd.ie at IP 134.226.83.27
+Sent all of http://www.netsoc.tcd.ie/static_files/favicon.ico
+Sent all of http://www.netsoc.tcd.ie/static_files/favicon.ico
+Caching: http://spoon.netsoc.tcd.ie/nat.png
+Sent all of http://spoon.netsoc.tcd.ie/nat.png
+Attempted to access Blacklisted site: www.netsoc.tcd.ie at IP 134.226.83.27
+Sent all of http://www.netsoc.tcd.ie/static_files/favicon.ico
+Attempted to access Blacklisted site: cube.netsoc.tcd.ie at IP 134.226.83.27
+Sent all of http://cube.netsoc.tcd.ie/
+Attempted to access Blacklisted site: cube.netsoc.tcd.ie at IP 134.226.83.27
+Attempted to access Blacklisted site: cube.netsoc.tcd.ie at IP 134.226.83.27
+Sent all of http://cube.netsoc.tcd.ie/favicon.ico
+Sent all of http://cube.netsoc.tcd.ie/favicon.ico
+Removing 134.226.83.27
+Blocking cube
+Attempted to access Blacklisted site: cube.netsoc.tcd.ie at IP 134.226.83.27
+Sent all of http://cube.netsoc.tcd.ie/
+Removing cube
+Requesting: http://cube.netsoc.tcd.ie/
+Caching: http://cube.netsoc.tcd.ie/
+Sent all of http://cube.netsoc.tcd.ie/
+Requesting: http://cube.netsoc.tcd.ie/nat.png
+Caching: http://cube.netsoc.tcd.ie/nat.png
+Sent all of http://cube.netsoc.tcd.ie/nat.png
+Blocking cube
+Attempted to access Blacklisted site: cube.netsoc.tcd.ie at IP 134.226.83.27
+Sent all of http://cube.netsoc.tcd.ie/
+CONNECT request detected, passing.
+Sent all of sb-ssl.google.com:443
+CONNECT request detected, passing.
+Sent all of sb-ssl.google.com:443
+Removing cube
+Program Closing
+Closing Proxy Server
+Saving Log
+2012-04-05 13:01:56
+Program Closing
+Saving Log
